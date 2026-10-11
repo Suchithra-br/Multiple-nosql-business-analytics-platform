@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,total_spend,order_count,first_order_date,last_order_date,primary_region
+AA-10315,Alex Avila,Consumer,5563.56,5,2015-03-31,2018-06-29,Central
+AA-10375,Allen Armold,Consumer,1056.39,9,2015-04-21,2018-12-11,South
+AA-10480,Andrew Allen,Consumer,1790.512,4,2015-05-04,2018-04-15,Central
+AA-10645,Anna Andreadi,Consumer,5086.935,6,2015-06-22,2018-11-05,Central
+AB-10015,Aaron Bergman,Consumer,886.156,3,2015-02-18,2017-11-10,Central
+AB-10060,Adam Bellavance,Home Office,7755.62,8,2016-09-18,2018-11-06,East
+AB-10105,Adrian Barton,Consumer,14473.571,10,2015-12-20,2018-11-19,Central
+AB-10150,Aimee Bixby,Consumer,966.71,5,2015-03-05,2018-11-19,East
+AB-10165,Alan Barnes,Consumer,1113.838,8,2015-11-16,2018-12-05,West
+AB-10255,Alejandro Ballentine,Home Office,914.532,9,2015-07-22,2018-07-17,West
+AB-10600,Ann Blume,Corporate,1515.862,4,2015-11-18,2018-11-10,West
+AC-10420,Alyssa Crouse,Corporate,925.8,3,2015-07-12,2018-05-12,West
+AC-10450,Amy Cox,Consumer,5527.846,7,2015-10-31,2018-12-19,West
+AC-10615,Ann Chong,Corporate,2537.686,5,2016-09-15,2018-12-24,East
+AC-10660,Anna Chung,Consumer,657.316,5,2015-10-15,2018-03-23,West
+AD-10180,Alan Dominguez,Home Office,6106.88,8,2015-11-19,2018-12-01,West
+AF-10870,Art Ferguson,Consumer,2052.908,7,2016-12-06,2018-11-19,East
+AF-10885,Art Foster,Consumer,861.565,4,2015-05-10,2017-11-10,East
+AG-10270,Alejandro Grove,Consumer,2582.898,5,2015-05-13,2018-03-27,Central
+AG-10300,Aleksandra Gannaway,Corporate,367.548,4,2015-04-26,2018-09-03,West
+AG-10330,Alex Grayson,Consumer,660.972,5,2017-08-03,2018-12-22,Central
+AG-10390,Allen Goldenen,Consumer,200.945,5,2015-04-19,2018-09-07,South
+AG-10495,Andrew Gjertsen,Corporate,1419.247,7,2016-01-04,2018-10-13,Central
+AG-10525,Andy Gerbode,Corporate,1455.038,4,2015-08-09,2016-09-07,East
+AG-10675,Anna Gayman,Consumer,3489.0396,7,2016-05-07,2018-09-24,Central
+AG-10765,Anthony Garverick,Home Office,170.584,4,2015-09-17,2018-10-14,South
+AG-10900,Arthur Gainer,Consumer,4510.797,10,2015-07-23,2018-09-25,West
+AH-10030,Aaron Hawkins,Corporate,1744.7,7,2015-04-22,2018-12-18,West
+AH-10075,Adam Hart,Corporate,3250.337,10,2015-11-16,2018-11-26,East
+AH-10120,Adrian Hane,Home Office,1735.514,7,2015-07-18,2018-10-31,West
+AH-10195,Alan Haines,Corporate,1587.452,4,2016-03-05,2018-11-05,South
+AH-10210,Alan Hwang,Consumer,4805.344,9,2015-11-29,2018-12-24,South
+AH-10465,Amy Hunt,Consumer,2495.3916,5,2016-01-03,2018-05-14,Central
+AH-10585,Angele Hood,Consumer,738.504,4,2015-10-26,2018-12-09,West
+AH-10690,Anna Häberlin,Corporate,7888.294,12,2015-04-02,2017-11-15,South
+AI-10855,Arianne Irving,Consumer,4375.786,10,2015-04-28,2018-12-17,West
+AJ-10780,Anthony Jacobs,Corporate,4867.344,7,2015-01-10,2018-10-16,East
+AJ-10795,Anthony Johnson,Corporate,4501.391,7,2015-05-14,2018-07-17,West
+AJ-10945,Ashley Jarboe,Consumer,1829.896,6,2015-03-03,2018-08-31,Central
+AJ-10960,Astrea Jones,Consumer,629.248,3,2015-09-14,2018-10-17,East
+AM-10360,Alice McCarthy,Corporate,814.012,5,2015-10-06,2018-12-02,West
+AM-10705,Anne McFarland,Consumer,5664.022,8,2015-10-31,2018-07-21,South
+AO-10810,Anthony O'Donnell,Corporate,161.28,1,2017-08-16,2017-08-16,West
+AP-10720,Anne Pryor,Home Office,545.932,6,2015-03-03,2018-11-19,East
+AP-10915,Arthur Prichep,Consumer,3323.556,10,2015-08-23,2018-09-23,West
+AR-10345,Alex Russell,Corporate,1055.694,4,2015-12-30,2018-09-10,East
+AR-10405,Allen Rosenblatt,Corporate,2236.128,5,2015-10-03,2018-08-27,East
+AR-10510,Andrew Roberts,Consumer,264.864,5,2015-05-02,2018-12-16,East
+AR-10540,Andy Reiter,Consumer,6608.448,6,2015-11-25,2018-12-24,Central
+AR-10570,Anemone Ratner,Consumer,88.15,1,2017-07-14,2017-07-14,South
+AR-10825,Anthony Rawles,Corporate,4523.336,8,2015-06-30,2018-11-02,West
+AS-10045,Aaron Smayling,Corporate,3050.692,7,2015-07-27,2018-10-03,Central
+AS-10090,Adam Shillingsburg,Consumer,3255.31,9,2015-09-22,2018-12-02,East
+AS-10135,Adrian Shami,Home Office,58.82,2,2017-11-13,2018-11-19,East
+AS-10225,Alan Schoenberger,Corporate,4260.784,5,2015-10-18,2018-12-08,South
+AS-10240,Alan Shonely,Consumer,503.968,5,2015-03-15,2018-06-21,South
+AS-10285,Alejandro Savely,Corporate,3214.236,6,2017-05-21,2018-12-11,Central
+AS-10630,Ann Steele,Home Office,833.398,7,2015-08-01,2018-09-29,West
+AT-10435,Alyssa Tate,Home Office,1166.072,5,2015-12-27,2018-12-09,West
+AT-10735,Annie Thurman,Consumer,3831.864,10,2015-08-30,2018-12-17,East
+AW-10840,Anthony Witt,Consumer,649.376,4,2016-04-13,2018-12-10,East
+AW-10930,Arthur Wiediger,Home Office,2852.968,7,2015-07-14,2018-11-14,Central
+AY-10555,Andy Yotov,Corporate,497.014,4,2015-04-06,2018-12-16,West
+AZ-10750,Annie Zypern,Consumer,1622.018,6,2015-03-17,2018-07-23,West
+BB-10990,Barry Blumstein,Corporate,744.34,5,2015-07-27,2018-09-16,Central
+BB-11545,Brenda Bowman,Corporate,6765.728,9,2016-06-05,2018-12-02,East
+BC-11125,Becky Castell,Home Office,2933.676,9,2015-07-06,2018-06-11,West
+BD-11320,Bill Donatelli,Consumer,5718.521,12,2016-05-31,2018-11-27,Central
+BD-11500,Bradley Drucker,Consumer,4411.243,6,2015-02-01,2018-11-25,South
+BD-11560,Brendan Dodson,Home Office,320.54,2,2016-05-30,2018-03-27,West
+BD-11605,Brian Dahlen,Consumer,2783.189,6,2015-01-13,2018-09-24,West
+BD-11620,Brian DeCherney,Consumer,1538.11,6,2015-06-30,2018-10-22,Central
+BD-11635,Brian Derr,Consumer,582.646,3,2015-10-05,2018-12-21,East
+BD-11725,Bruce Degenhardt,Consumer,1526.5,6,2016-07-03,2018-09-28,South
+BD-11770,Bryan Davis,Consumer,658.466,6,2017-03-10,2018-02-06,East
+BE-11335,Bill Eplett,Home Office,4204.676,5,2017-01-15,2018-09-02,Central
+BE-11410,Bobby Elias,Consumer,2261.438,5,2017-02-07,2018-09-23,Central
+BE-11455,Brad Eason,Home Office,748.026,5,2016-08-02,2017-09-05,East
+BF-10975,Barbara Fisher,Corporate,599.798,7,2015-07-14,2018-09-30,Central
+BF-11005,Barry Franz,Home Office,1333.88,4,2015-09-25,2018-11-21,West
+BF-11020,Barry Französisch,Corporate,2888.506,8,2015-02-15,2018-10-17,East
+BF-11080,Bart Folk,Consumer,272.95,3,2015-11-28,2018-12-05,East
+BF-11170,Ben Ferrer,Home Office,5907.972,11,2015-04-13,2018-12-14,West
+BF-11215,Benjamin Farhat,Home Office,1585.162,4,2015-11-09,2018-10-26,West
+BF-11275,Beth Fritzler,Corporate,791.99,3,2015-03-22,2018-11-03,South
+BG-11035,Barry Gonzalez,Consumer,2798.948,8,2015-11-05,2018-12-02,South
+BG-11695,Brooke Gillingham,Corporate,1874.172,6,2015-05-11,2018-11-24,East
+BG-11740,Bruce Geld,Consumer,1006.356,6,2015-03-23,2018-11-03,West
+BH-11710,Brosina Hoffman,Consumer,6255.351,8,2015-06-09,2018-12-07,West
+BK-11260,Berenike Kampe,Consumer,659.138,6,2015-08-03,2018-10-14,Central
+BM-11140,Becky Martin,Consumer,11789.63,4,2015-09-08,2018-02-26,Central
+BM-11575,Brendan Murry,Corporate,808.162,6,2016-09-15,2018-09-21,East
+BM-11650,Brian Moss,Corporate,7294.185,11,2015-07-09,2018-11-27,East
+BM-11785,Bryan Mills,Consumer,1338.842,10,2015-06-06,2018-05-26,Central
+BN-11470,Brad Norvell,Corporate,265.296,4,2015-09-12,2018-12-06,South
+BN-11515,Bradley Nguyen,Consumer,1459.344,5,2015-03-17,2018-12-21,East
+BO-11350,Bill Overfelt,Corporate,2682.728,5,2017-01-03,2018-08-15,Central
+BO-11425,Bobby Odegard,Consumer,130.83,2,2016-09-10,2018-10-16,South
+BP-11050,Barry Pond,Corporate,983.42,5,2015-10-12,2018-10-08,East
+BP-11095,Bart Pistole,Corporate,2442.044,12,2015-06-07,2018-12-13,East
+BP-11155,Becky Pak,Consumer,1697.861,6,2016-06-04,2018-10-02,West
+BP-11185,Ben Peterman,Corporate,3675.861,9,2016-03-24,2018-12-29,Central
+BP-11230,Benjamin Patterson,Consumer,1181.49,5,2015-04-20,2018-11-21,East
+BP-11290,Beth Paige,Consumer,2475.157,7,2015-10-03,2018-12-18,West
+BS-11365,Bill Shonely,Corporate,10501.653,5,2015-05-04,2017-06-20,East
+BS-11380,Bill Stewart,Corporate,3887.834,5,2015-11-29,2018-12-02,West
+BS-11590,Brendan Sweed,Corporate,2454.928,6,2015-01-14,2018-11-25,West
+BS-11665,Brian Stugart,Consumer,3288.11,3,2015-06-23,2017-05-27,West
+BS-11755,Bruce Stewart,Consumer,2562.382,7,2015-05-18,2018-12-29,East
+BS-11800,Bryan Spruell,Home Office,949.43,2,2016-09-26,2018-04-09,East
+BT-11305,Beth Thompson,Home Office,2567.656,5,2015-04-25,2018-01-28,West
+BT-11395,Bill Tyler,Corporate,2186.613,6,2015-10-28,2018-03-03,Central
+BT-11440,Bobby Trafton,Consumer,603.876,4,2015-06-04,2017-06-18,East
+BT-11485,Brad Thomas,Home Office,415.196,2,2016-12-27,2017-03-11,East
+BT-11530,Bradley Talbott,Home Office,2684.492,5,2015-05-21,2018-09-30,West
+BT-11680,Brian Thompson,Consumer,3196.752,7,2015-11-28,2018-12-10,East
+BV-11245,Benjamin Venier,Corporate,1523.273,5,2016-03-26,2018-01-30,South
+BW-11065,Barry Weirich,Consumer,385.516,3,2015-05-25,2018-06-01,East
+BW-11110,Bart Watters,Corporate,4750.358,8,2016-03-20,2018-08-31,Central
+BW-11200,Ben Wallace,Consumer,1738.406,6,2015-08-12,2018-06-10,West
+CA-11965,Carol Adams,Corporate,3789.7228,6,2015-01-26,2018-09-25,East
+CA-12055,Cathy Armstrong,Home Office,1679.724,5,2016-09-05,2017-11-24,West
+CA-12265,Christina Anderson,Consumer,2638.3272,8,2015-03-25,2018-11-04,West
+CA-12310,Christine Abelman,Corporate,1421.954,4,2015-07-19,2018-12-17,East
+CA-12775,Cynthia Arntzen,Consumer,3041.566,7,2015-06-28,2018-09-01,East
+CB-12025,Cassandra Brandow,Consumer,5730.669,9,2015-03-21,2018-11-13,Central
+CB-12415,Christy Brittain,Consumer,1949.2,8,2016-11-05,2018-12-04,East
+CB-12535,Claudia Bergmann,Corporate,4246.4555,8,2016-01-02,2018-06-16,East
+CC-12100,Chad Cunningham,Home Office,1685.889,5,2015-12-16,2017-09-29,West
+CC-12145,Charles Crestani,Consumer,2471.65,7,2015-07-20,2018-09-15,West
+CC-12220,Chris Cortes,Consumer,3670.258,11,2015-09-09,2018-12-10,East
+CC-12370,Christopher Conant,Consumer,12129.072,5,2017-05-23,2018-11-17,East
+CC-12430,Chuck Clark,Home Office,2870.05,10,2016-09-06,2018-12-30,East
+CC-12475,Cindy Chapman,Consumer,1659.438,9,2015-05-16,2018-11-21,West
+CC-12550,Clay Cheatham,Consumer,113.832,3,2018-06-15,2018-12-03,West
+CC-12610,Corey Catlett,Corporate,2540.631,7,2015-08-27,2018-11-26,South
+CC-12670,Craig Carreira,Consumer,2269.7015,7,2015-12-23,2018-12-01,West
+CC-12685,Craig Carroll,Consumer,2854.115,4,2015-03-22,2016-10-23,East
+CD-11920,Carlos Daly,Consumer,2033.968,5,2015-03-24,2018-11-20,East
+CD-11980,Carol Darley,Consumer,639.766,3,2017-11-24,2018-11-06,East
+CD-12280,Christina DeMoss,Consumer,1205.584,2,2018-11-05,2018-11-18,East
+CD-12790,Cynthia Delaney,Home Office,1860.732,5,2015-02-02,2017-11-26,Central
+CG-12040,Catherine Glotzbach,Home Office,904.468,6,2016-06-01,2018-11-11,East
+CG-12520,Claire Gute,Consumer,1148.78,3,2016-10-15,2018-01-26,South
+CH-12070,Cathy Hwang,Home Office,1537.236,3,2016-06-25,2017-02-08,South
+CJ-11875,Carl Jackson,Corporate,16.52,1,2017-12-30,2017-12-30,East
+CJ-12010,Caroline Jumper,Consumer,11164.974,8,2017-03-10,2018-06-24,East
+CK-12205,Chloris Kastensmidt,Consumer,3154.855,13,2015-03-11,2018-11-21,West
+CK-12325,Christine Kargatis,Home Office,2945.321,5,2015-03-14,2018-09-01,East
+CK-12595,Clytie Kelty,Consumer,2372.75,11,2015-12-26,2018-11-17,South
+CK-12760,Cyma Kinney,Corporate,1582.109,9,2015-02-07,2018-10-09,Central
+CL-11890,Carl Ludwig,Consumer,1262.014,4,2015-07-26,2018-09-15,East
+CL-12565,Clay Ludtke,Consumer,10880.546,12,2015-03-04,2018-03-21,West
+CL-12700,Craig Leslie,Home Office,2335.586,4,2017-04-24,2018-04-14,West
+CM-11815,Candace McMahon,Corporate,1673.888,6,2015-11-14,2018-08-21,West
+CM-11935,Carlos Meador,Consumer,565.392,2,2016-09-24,2017-01-22,South
+CM-12115,Chad McGuire,Consumer,1661.61,4,2016-03-29,2018-12-22,West
+CM-12160,Charles McCrossin,Consumer,2533.314,6,2017-10-21,2018-12-04,West
+CM-12190,Charlotte Melton,Consumer,1475.144,6,2016-09-18,2018-12-22,Central
+CM-12235,Chris McAfee,Consumer,2305.712,5,2017-05-01,2017-12-10,Central
+CM-12385,Christopher Martinez,Consumer,8954.02,4,2016-03-16,2018-11-23,South
+CM-12445,Chuck Magee,Consumer,287.99,3,2015-06-09,2017-10-20,West
+CM-12655,Corinna Mitchell,Home Office,5890.508,5,2016-11-03,2018-12-03,East
+CM-12715,Craig Molinari,Corporate,3984.4524,4,2015-03-07,2016-03-01,Central
+CP-12085,Cathy Prescott,Corporate,5402.254,8,2015-12-04,2018-10-09,Central
+CP-12340,Christine Phan,Corporate,5817.187,7,2015-03-17,2018-07-23,East
+CR-12580,Clay Rozendal,Home Office,2148.852,4,2017-04-18,2018-11-03,West
+CR-12625,Corey Roper,Home Office,475.9,3,2015-06-01,2017-09-16,East
+CR-12730,Craig Reiter,Consumer,1600.55,4,2015-08-20,2018-10-13,East
+CR-12820,Cyra Reiten,Home Office,1397.8724,3,2016-01-24,2018-10-06,Central
+CS-11845,Cari Sayre,Corporate,1278.954,5,2015-12-14,2018-09-30,West
+CS-11860,Cari Schnelling,Consumer,537.632,6,2015-05-02,2018-07-21,South
+CS-11950,Carlos Soltero,Consumer,3036.547,11,2015-06-08,2018-12-05,West
+CS-12130,Chad Sievert,Consumer,884.64,4,2015-08-05,2017-08-28,West
+CS-12175,Charles Sheldon,Corporate,844.458,5,2015-08-12,2018-05-12,West
+CS-12250,Chris Selesnick,Corporate,2754.216,12,2015-01-13,2018-12-04,South
+CS-12355,Christine Sundaresam,Consumer,3202.162,11,2015-08-15,2018-12-24,South
+CS-12400,Christopher Schild,Home Office,3651.8585,9,2015-09-26,2018-12-28,South
+CS-12460,Chuck Sachs,Consumer,550.644,2,2018-07-03,2018-12-03,South
+CS-12490,Cindy Schnelling,Corporate,970.1105,4,2016-01-12,2017-11-01,South
+CS-12505,Cindy Stewart,Consumer,5690.055,6,2015-03-26,2018-11-02,East
+CT-11995,Carol Triggs,Consumer,3241.898,8,2015-05-07,2018-09-25,East
+CV-12295,Christina VanderZanden,Consumer,2830.628,5,2015-03-28,2018-04-20,Central
+CV-12805,Cynthia Voltz,Corporate,2370.3136,9,2017-05-09,2018-12-25,Central
+CW-11905,Carl Weiss,Home Office,1136.592,6,2015-06-09,2018-12-08,East
+CY-12745,Craig Yedwab,Corporate,2004.082,7,2015-12-12,2018-10-31,Central
+Co-12640,Corey-Lock,Consumer,1300.076,5,2015-06-20,2017-06-29,West
+DA-13450,Dianna Arnett,Home Office,156.76,4,2015-04-25,2018-01-12,East
+DB-12910,Daniel Byrd,Home Office,2171.599,8,2015-10-24,2018-12-09,West
+DB-12970,Darren Budd,Corporate,2469.6672,4,2015-11-12,2018-05-03,East
+DB-13060,Dave Brooks,Consumer,4151.51,6,2015-03-01,2018-12-14,East
+DB-13120,David Bremer,Corporate,2973.094,7,2016-05-01,2018-11-12,East
+DB-13210,Dean Braden,Consumer,2332.577,10,2016-03-22,2018-12-21,East
+DB-13270,Deborah Brumfield,Home Office,4655.897,8,2015-02-04,2018-11-07,East
+DB-13360,Dennis Bolton,Home Office,1081.466,5,2015-11-19,2018-04-10,East
+DB-13405,Denny Blanton,Consumer,1711.692,4,2016-08-08,2018-06-26,East
+DB-13555,Dorothy Badders,Corporate,3908.8028,7,2015-04-21,2018-09-14,South
+DB-13615,Doug Bickford,Consumer,1989.05,7,2015-09-30,2018-11-27,West
+DB-13660,Duane Benoit,Consumer,1155.202,7,2015-06-17,2018-12-18,West
+DC-12850,Dan Campbell,Consumer,3336.168,9,2015-07-05,2018-11-23,South
+DC-13285,Debra Catini,Consumer,1174.618,5,2015-12-29,2018-12-07,South
+DD-13570,Dorothy Dickinson,Consumer,269.542,6,2015-03-31,2018-11-19,West
+DE-13255,Deanra Eno,Home Office,2550.874,5,2015-08-22,2017-01-11,Central
+DF-13135,David Flashing,Consumer,2390.534,3,2015-10-04,2017-01-30,Central
+DG-13300,Deirdre Greer,Corporate,3195.818,5,2015-11-01,2018-11-28,East
+DH-13075,Dave Hallsten,Corporate,3487.198,5,2015-11-21,2018-03-28,South
+DH-13675,Duane Huffman,Home Office,1043.096,4,2015-08-12,2016-11-15,South
+DJ-13420,Denny Joy,Corporate,2012.52,4,2015-12-08,2017-04-02,Central
+DJ-13510,Don Jones,Corporate,2501.688,8,2015-08-17,2018-11-12,West
+DJ-13630,Doug Jacobs,Consumer,3356.398,3,2016-12-14,2018-12-18,East
+DK-12835,Damala Kotsonis,Corporate,3256.48,12,2015-03-26,2018-12-09,West
+DK-12895,Dana Kaydos,Consumer,4282.176,5,2016-03-08,2018-11-15,Central
+DK-12985,Darren Koutras,Consumer,1687.04,5,2015-11-24,2018-12-23,South
+DK-13090,Dave Kipp,Consumer,2650.557,7,2016-03-02,2018-11-18,South
+DK-13150,David Kendrick,Corporate,797.832,2,2015-12-05,2018-12-20,Central
+DK-13225,Dean Katz,Corporate,4802.394,9,2015-03-14,2018-12-20,West
+DK-13375,Dennis Kane,Consumer,3318.486,8,2015-09-07,2018-12-11,East
+DL-12865,Dan Lawera,Consumer,444.024,7,2015-06-29,2018-09-21,East
+DL-12925,Daniel Lacy,Consumer,3272.2,6,2015-09-09,2018-11-03,South
+DL-13315,Delfina Latchford,Consumer,1458.258,8,2015-01-16,2018-12-08,East
+DL-13330,Denise Leinenbach,Consumer,585.02,4,2015-06-23,2018-11-03,Central
+DL-13495,Dionis Lloyd,Corporate,3539.322,8,2016-12-25,2018-10-15,East
+DM-12955,Dario Medina,Corporate,1322.034,7,2015-09-30,2018-09-07,East
+DM-13015,Darrin Martin,Consumer,6345.103,7,2015-09-14,2018-11-03,East
+DM-13345,Denise Monton,Corporate,4074.472,8,2015-11-03,2018-12-08,South
+DM-13525,Don Miller,Corporate,1376.792,3,2015-07-05,2017-09-05,East
+DN-13690,Duane Noonan,Consumer,2139.79,7,2015-09-20,2018-05-27,West
+DO-13435,Denny Ordway,Consumer,1300.0315,9,2015-10-03,2018-08-19,East
+DO-13645,Doug O'Connell,Consumer,1267.316,7,2016-11-07,2018-12-04,East
+DP-13000,Darren Powers,Consumer,897.524,8,2015-01-03,2018-08-26,West
+DP-13105,Dave Poirier,Corporate,2215.002,8,2016-08-22,2018-12-24,East
+DP-13165,David Philippe,Consumer,1058.616,2,2015-12-02,2016-10-10,East
+DP-13390,Dennis Pardue,Home Office,5480.724,9,2015-07-05,2018-01-06,West
+DR-12880,Dan Reichenbach,Corporate,6528.034,9,2016-09-25,2018-12-27,West
+DR-12940,Daniel Raglin,Home Office,8350.868,8,2015-03-28,2018-11-10,East
+DS-13030,Darrin Sayre,Home Office,1762.213,4,2015-07-09,2018-09-28,West
+DS-13180,David Smith,Corporate,2881.8128,9,2015-04-28,2018-12-07,Central
+DV-13045,Darrin Van Huff,Corporate,1119.483,5,2017-06-12,2018-12-11,South
+DV-13465,Dianna Vittorini,Consumer,3254.487,5,2015-06-22,2018-12-01,West
+DW-13195,David Wiener,Corporate,1080.751,6,2015-01-18,2018-10-22,West
+DW-13480,Dianna Wilson,Home Office,5271.628,5,2015-06-01,2018-05-27,Central
+DW-13540,Don Weiss,Consumer,344.08,5,2017-02-27,2018-09-23,West
+DW-13585,Dorothy Wardle,Corporate,1204.854,7,2015-08-24,2018-05-02,East
+Dl-13600,Dorris liebe,Corporate,755.602,5,2015-03-30,2018-09-02,East
+Dp-13240,Dean percer,Home Office,7198.761,11,2015-05-26,2018-10-07,South
+EA-14035,Erin Ashbrook,Corporate,2752.441,12,2015-09-13,2018-07-31,Central
+EB-13705,Ed Braxton,Corporate,3644.978,9,2015-07-08,2018-11-12,West
+EB-13750,Edward Becker,Corporate,3236.314,10,2016-03-12,2018-11-25,East
+EB-13840,Ellis Ballard,Corporate,964.448,4,2015-05-30,2018-10-01,West
+EB-13870,Emily Burns,Consumer,2767.219,10,2015-05-05,2018-09-21,West
+EB-13930,Eric Barreto,Consumer,944.6,5,2015-02-02,2018-07-22,Central
+EB-13975,Erica Bern,Corporate,1643.255,4,2017-01-04,2018-12-30,South
+EB-14110,Eugene Barchas,Consumer,3071.126,6,2016-04-13,2018-09-08,East
+EB-14170,Evan Bailliet,Consumer,1186.326,6,2015-09-29,2018-10-09,West
+EC-14050,Erin Creighton,Consumer,461.914,5,2015-12-17,2018-11-07,South
+ED-13885,Emily Ducich,Home Office,3484.92,8,2015-08-09,2018-08-17,East
+EG-13900,Emily Grady,Consumer,1832.02,5,2016-11-02,2018-12-08,East
+EH-13765,Edward Hooks,Corporate,9940.38,10,2015-10-18,2018-08-17,West
+EH-13945,Eric Hoffmann,Consumer,684.171,8,2015-07-02,2018-05-27,Central
+EH-13990,Erica Hackney,Consumer,825.95,6,2015-01-15,2017-11-20,East
+EH-14005,Erica Hernandez,Home Office,1219.53,7,2015-05-13,2018-12-28,South
+EH-14125,Eugene Hildebrand,Home Office,3082.653,10,2015-10-19,2018-07-31,East
+EH-14185,Evan Henry,Consumer,923.884,6,2015-05-22,2018-09-16,East
+EJ-13720,Ed Jacobs,Consumer,2162.174,4,2015-01-27,2018-03-03,West
+EJ-14155,Eva Jacobs,Consumer,2656.691,5,2015-03-03,2018-11-03,East
+EK-13795,Eileen Kiefer,Home Office,1303.478,4,2015-03-18,2018-11-16,West
+EL-13735,Ed Ludwig,Home Office,124.28,2,2017-04-22,2018-10-14,Central
+EM-13810,Eleni McCrary,Corporate,2567.01,5,2016-06-07,2018-08-20,West
+EM-13825,Elizabeth Moffitt,Corporate,2339.598,8,2015-12-02,2018-11-05,Central
+EM-13960,Eric Murdock,Consumer,933.704,5,2016-10-01,2018-08-01,West
+EM-14065,Erin Mull,Consumer,228.99,4,2015-07-22,2018-11-13,East
+EM-14095,Eudokia Martin,Corporate,1041.042,4,2016-08-07,2018-09-08,South
+EM-14140,Eugene Moren,Home Office,4588.436,6,2015-07-19,2018-11-12,West
+EM-14200,Evan Minnotte,Home Office,366.822,3,2016-12-20,2018-07-25,Central
+EN-13780,Edward Nazzal,Consumer,2199.366,4,2016-05-30,2018-03-18,East
+EP-13915,Emily Phan,Consumer,5478.0608,17,2015-07-06,2018-12-18,Central
+ER-13855,Elpida Rittenbach,Corporate,1245.788,3,2016-12-21,2017-11-04,South
+ES-14020,Erica Smith,Consumer,3510.458,5,2015-09-20,2018-11-20,West
+ES-14080,Erin Smith,Corporate,4657.924,9,2015-10-02,2018-12-02,West
+FA-14230,Frank Atkinson,Corporate,2984.054,7,2015-09-19,2018-09-24,West
+FC-14245,Frank Carlisle,Home Office,3418.742,7,2016-06-13,2018-10-21,Central
+FC-14335,Fred Chung,Corporate,3889.366,7,2015-10-10,2018-06-29,West
+FG-14260,Frank Gastineau,Home Office,1383.144,7,2015-05-21,2018-11-26,East
+FH-14275,Frank Hawley,Corporate,4256.272,10,2015-04-06,2018-11-23,East
+FH-14350,Fred Harton,Consumer,2271.284,4,2016-08-23,2018-06-01,South
+FH-14365,Fred Hopkins,Corporate,6987.196,8,2015-10-20,2018-12-25,West
+FM-14215,Filia McAdams,Corporate,2456.638,10,2015-03-11,2018-12-23,East
+FM-14290,Frank Merwin,Home Office,3736.198,9,2015-08-26,2018-11-24,East
+FM-14380,Fred McMath,Consumer,2523.266,9,2016-07-12,2018-08-07,Central
+FO-14305,Frank Olsen,Consumer,2678.438,10,2015-06-09,2018-11-22,South
+FP-14320,Frank Preis,Consumer,4046.746,8,2015-12-07,2018-12-07,East
+FW-14395,Fred Wasserman,Corporate,79.75,3,2016-03-22,2018-01-02,East
+GA-14515,George Ashbrook,Consumer,3797.232,5,2016-04-17,2018-08-03,West
+GA-14725,Guy Armstrong,Consumer,1398.382,11,2015-02-11,2018-12-25,Central
+GB-14530,George Bell,Corporate,1568.44,11,2015-04-28,2018-10-29,East
+GB-14575,Giulietta Baptist,Consumer,4716.288,5,2016-06-12,2018-12-17,South
+GD-14590,Giulietta Dortch,Corporate,1888.07,4,2015-05-05,2018-12-25,West
+GG-14650,Greg Guthrie,Corporate,2224.0,9,2015-10-31,2018-11-17,West
+GH-14410,Gary Hansen,Home Office,2819.467,9,2015-07-09,2018-10-16,Central
+GH-14425,Gary Hwang,Consumer,4172.846,4,2015-06-17,2018-11-10,West
+GH-14485,Gene Hale,Corporate,1361.244,2,2016-10-08,2017-12-08,Central
+GH-14665,Greg Hansen,Consumer,146.9408,2,2016-11-17,2018-12-28,Central
+GK-14620,Grace Kelly,Corporate,6497.27,9,2015-06-25,2018-09-09,West
+GM-14440,Gary McGarr,Consumer,3582.82,7,2015-03-21,2018-10-08,West
+GM-14455,Gary Mitchum,Home Office,3078.624,6,2015-04-11,2018-12-14,East
+GM-14500,Gene McClure,Consumer,1255.682,10,2015-08-09,2018-09-15,East
+GM-14680,Greg Matthias,Consumer,3163.628,6,2015-05-10,2018-07-31,West
+GM-14695,Greg Maxwell,Corporate,6049.966,3,2015-04-05,2018-09-04,South
+GP-14740,Guy Phonely,Corporate,236.53,2,2015-04-06,2016-11-26,East
+GR-14560,Georgia Rosenberg,Corporate,1284.38,2,2015-11-19,2015-11-21,East
+GT-14635,Grant Thornton,Corporate,9351.212,3,2015-06-06,2018-11-04,South
+GT-14710,Greg Tran,Consumer,11820.12,11,2015-05-23,2018-11-24,East
+GT-14755,Guy Thornton,Consumer,226.436,4,2016-02-18,2018-11-26,West
+GW-14605,Giulietta Weimer,Consumer,2189.019,7,2015-03-01,2018-12-02,East
+GZ-14470,Gary Zandusky,Consumer,4355.15,9,2015-08-05,2018-12-23,East
+GZ-14545,George Zrebassa,Corporate,2454.622,4,2015-09-28,2018-07-26,West
+HA-14905,Helen Abelman,Consumer,2163.3,7,2015-06-30,2018-10-22,West
+HA-14920,Helen Andreada,Consumer,2584.158,8,2015-10-11,2018-12-10,West
+HD-14785,Harold Dahlen,Home Office,251.36,3,2015-05-11,2016-11-22,East
+HE-14800,Harold Engle,Corporate,755.462,3,2017-01-30,2018-12-18,East
+HF-14995,Herbert Flentye,Consumer,2533.164,7,2015-05-26,2018-12-09,West
+HG-14845,Harry Greene,Consumer,785.628,5,2015-04-29,2018-11-06,East
+HG-14965,Henry Goldwyn,Corporate,3247.642,12,2015-09-20,2018-12-07,Central
+HG-15025,Hunter Glantz,Consumer,3690.284,7,2015-10-14,2018-12-24,Central
+HH-15010,Hilary Holden,Corporate,218.668,2,2015-08-29,2018-10-19,West
+HJ-14875,Heather Jas,Home Office,358.1,5,2016-04-13,2018-08-26,West
+HK-14890,Heather Kirkland,Corporate,4877.784,8,2015-06-10,2018-08-01,Central
+HL-15040,Hunter Lopez,Consumer,12873.298,6,2015-01-20,2018-11-17,East
+HM-14860,Harry Marie,Corporate,8236.7648,10,2015-07-21,2018-12-28,Central
+HM-14980,Henry MacAllister,Consumer,736.276,4,2016-10-02,2018-04-27,West
+HP-14815,Harold Pawlan,Home Office,1990.314,7,2015-05-06,2018-11-30,East
+HR-14770,Hallie Redmond,Home Office,940.588,4,2015-03-01,2018-12-17,Central
+HR-14830,Harold Ryan,Corporate,5248.787,7,2015-11-24,2018-07-24,West
+HW-14935,Helen Wasserman,Corporate,4827.934,7,2016-09-27,2018-09-04,West
+HZ-14950,Henia Zydlo,Consumer,886.52,5,2017-03-14,2018-11-25,South
+IG-15085,Ivan Gibson,Consumer,744.574,4,2015-10-18,2018-10-20,East
+IL-15100,Ivan Liston,Consumer,5040.736,7,2015-08-01,2018-08-10,East
+IM-15055,Ionia McGrath,Consumer,48.4,2,2015-01-23,2017-11-16,West
+IM-15070,Irene Maddox,Consumer,4930.474,7,2015-12-19,2017-12-05,South
+JA-15970,Joseph Airdo,Consumer,6491.026,8,2015-09-17,2018-09-29,East
+JB-15400,Jennifer Braxton,Corporate,1791.605,10,2015-09-14,2018-12-23,East
+JB-15925,Joni Blumstein,Consumer,900.552,3,2015-12-05,2016-12-24,East
+JB-16000,Joy Bell-,Consumer,644.1188,7,2017-01-10,2018-11-17,Central
+JB-16045,Julia Barnett,Home Office,2518.115,5,2016-05-03,2018-12-23,South
+JC-15340,Jasper Cacioppo,Consumer,71.263,4,2015-01-28,2018-09-07,West
+JC-15385,Jenna Caffey,Consumer,1058.108,1,2018-07-08,2018-07-08,West
+JC-15775,John Castell,Consumer,2772.055,9,2015-09-14,2018-07-25,South
+JC-16105,Julie Creighton,Corporate,858.576,5,2015-11-18,2018-11-03,West
+JD-15790,John Dryer,Consumer,2152.352,5,2016-04-02,2018-09-04,South
+JD-15895,Jonathan Doherty,Corporate,7610.864,11,2015-03-26,2017-12-01,East
+JD-16015,Joy Daniels,Consumer,385.43,6,2015-10-04,2018-09-09,East
+JD-16060,Julia Dunbar,Consumer,695.442,3,2015-09-24,2018-03-05,Central
+JD-16150,Justin Deggeller,Corporate,8828.0305,8,2015-11-16,2018-11-19,West
+JE-15475,Jeremy Ellison,Consumer,1388.682,6,2016-03-16,2018-06-20,West
+JE-15610,Jim Epp,Corporate,7754.976,7,2015-10-14,2018-11-12,South
+JE-15715,Joe Elijah,Consumer,8697.843,10,2015-08-25,2018-11-14,West
+JE-15745,Joel Eaton,Consumer,6760.815,13,2015-06-22,2018-11-09,Central
+JE-16165,Justin Ellison,Corporate,2697.248,3,2017-12-05,2018-12-10,Central
+JF-15190,Jamie Frazer,Consumer,2239.606,6,2015-11-15,2018-10-26,East
+JF-15295,Jason Fortune-,Consumer,955.124,5,2015-03-14,2018-05-19,West
+JF-15355,Jay Fein,Consumer,1911.844,6,2016-10-23,2018-09-16,West
+JF-15415,Jennifer Ferguson,Consumer,2309.432,5,2015-08-22,2018-12-28,West
+JF-15490,Jeremy Farry,Consumer,890.95,10,2015-10-19,2018-08-31,West
+JF-15565,Jill Fjeld,Consumer,4198.332,8,2015-10-11,2018-11-06,South
+JG-15115,Jack Garza,Consumer,2358.676,3,2015-09-21,2016-12-03,West
+JG-15160,James Galang,Consumer,6366.392,11,2015-05-30,2018-12-29,West
+JG-15310,Jason Gross,Corporate,2240.58,6,2017-03-03,2018-12-28,East
+JG-15805,John Grady,Corporate,1507.018,6,2015-04-05,2018-05-21,East
+JH-15430,Jennifer Halladay,Consumer,309.281,4,2015-02-24,2018-12-25,South
+JH-15820,John Huston,Consumer,528.91,6,2015-05-19,2018-07-09,Central
+JH-15910,Jonathan Howell,Consumer,959.477,7,2016-06-12,2018-11-19,West
+JH-15985,Joseph Holt,Consumer,7954.998,6,2015-08-09,2018-12-01,South
+JH-16180,Justin Hirsh,Consumer,2256.394,4,2016-05-25,2017-11-21,East
+JJ-15445,Jennifer Jackson,Consumer,709.178,5,2016-03-05,2017-09-03,East
+JJ-15760,Joel Jenkins,Home Office,195.0,2,2016-10-05,2016-12-08,Central
+JK-15205,Jamie Kunitz,Consumer,4262.292,4,2016-09-27,2018-10-30,South
+JK-15325,Jason Klamczynski,Corporate,383.812,3,2015-11-21,2018-03-18,Central
+JK-15370,Jay Kimmel,Consumer,2136.458,7,2015-04-11,2018-11-16,South
+JK-15625,Jim Karlsson,Consumer,3760.028,7,2015-05-31,2018-10-30,West
+JK-15640,Jim Kriz,Home Office,4760.434,9,2015-09-19,2018-07-03,West
+JK-15730,Joe Kamberova,Consumer,4769.9,9,2015-11-18,2018-10-07,South
+JK-16090,Juliana Krohn,Consumer,3747.668,3,2016-04-21,2018-12-02,Central
+JK-16120,Julie Kriz,Home Office,2932.484,10,2015-11-02,2018-09-04,East
+JL-15130,Jack Lebron,Consumer,1214.956,6,2015-07-18,2018-12-22,South
+JL-15175,James Lanier,Home Office,1571.523,5,2015-12-31,2018-12-24,West
+JL-15235,Janet Lee,Consumer,2203.7,5,2015-05-25,2018-09-02,East
+JL-15505,Jeremy Lonsdale,Consumer,3173.874,6,2015-11-14,2018-11-11,West
+JL-15835,John Lee,Consumer,9576.343,10,2015-04-18,2018-12-09,South
+JL-15850,John Lucas,Consumer,2725.256,6,2015-07-22,2017-04-25,West
+JM-15250,Janet Martin,Consumer,3159.122,6,2017-03-29,2018-11-23,East
+JM-15265,Janet Molinari,Corporate,1804.146,5,2015-08-25,2018-11-23,East
+JM-15535,Jessica Myrick,Consumer,1733.443,7,2015-09-13,2018-09-19,East
+JM-15580,Jill Matthias,Consumer,303.948,5,2017-04-14,2018-12-30,West
+JM-15655,Jim Mitchum,Corporate,864.947,5,2015-04-08,2018-12-22,East
+JM-15865,John Murray,Consumer,7625.076,7,2015-11-19,2018-09-12,East
+JM-16195,Justin MacKendrick,Consumer,2833.926,10,2015-04-30,2018-11-03,West
+JO-15145,Jack O'Briant,Corporate,3254.949,9,2015-01-06,2018-11-03,Central
+JO-15280,Jas O'Carroll,Consumer,1934.272,6,2015-03-31,2018-09-29,West
+JO-15550,Jesus Ocampo,Home Office,1090.838,5,2016-03-19,2018-05-29,East
+JP-15460,Jennifer Patt,Corporate,1669.135,7,2015-08-24,2018-11-23,East
+JP-15520,Jeremy Pistek,Consumer,3635.594,7,2015-08-22,2018-12-22,Central
+JP-16135,Julie Prescott,Home Office,1707.71,9,2015-09-23,2018-09-19,South
+JR-15670,Jim Radford,Consumer,1156.658,2,2016-12-24,2017-05-16,West
+JR-15700,Jocasta Rupert,Consumer,863.88,1,2018-10-23,2018-10-23,South
+JR-16210,Justin Ritter,Corporate,2201.686,5,2016-09-18,2018-11-27,West
+JS-15595,Jill Stevenson,Corporate,1417.654,4,2015-03-03,2018-09-02,South
+JS-15685,Jim Sink,Corporate,990.196,3,2017-06-14,2018-11-18,South
+JS-15880,John Stevenson,Consumer,3868.02,5,2015-04-08,2017-07-14,West
+JS-15940,Joni Sundaresam,Home Office,469.169,5,2015-05-03,2017-09-23,Central
+JS-16030,Joy Smith,Consumer,2516.494,6,2015-02-27,2018-12-02,Central
+JW-15220,Jane Waco,Corporate,7721.714,6,2016-04-30,2018-11-18,West
+JW-15955,Joni Wasserman,Consumer,1049.238,6,2016-08-16,2018-12-25,East
+JW-16075,Julia West,Consumer,1428.731,4,2016-03-21,2017-09-25,South
+KA-16525,Kelly Andreada,Consumer,1519.506,7,2015-03-11,2018-11-24,East
+KB-16240,Karen Bern,Corporate,3152.615,7,2015-03-31,2018-12-26,West
+KB-16315,Karl Braun,Consumer,1569.464,9,2015-08-26,2018-03-09,East
+KB-16405,Katrina Bavinger,Home Office,908.821,3,2016-11-20,2018-09-04,East
+KB-16585,Ken Black,Corporate,2744.742,12,2015-04-04,2018-05-14,South
+KB-16600,Ken Brennan,Corporate,983.922,7,2015-12-30,2018-12-29,East
+KC-16255,Karen Carlisle,Corporate,2120.954,6,2015-09-08,2017-11-18,South
+KC-16540,Kelly Collister,Consumer,3908.262,4,2016-11-02,2018-09-24,West
+KC-16675,Kimberly Carter,Corporate,1146.05,4,2015-12-13,2018-11-03,South
+KD-16270,Karen Daniels,Consumer,8282.358,5,2015-11-11,2017-09-02,East
+KD-16345,Katherine Ducich,Consumer,1888.964,6,2015-09-02,2018-11-19,East
+KD-16495,Keith Dawkins,Corporate,8181.256,12,2015-09-28,2018-09-09,East
+KD-16615,Ken Dana,Corporate,907.158,4,2017-04-30,2018-03-16,West
+KE-16420,Katrina Edelman,Corporate,1453.2812,7,2015-06-08,2018-12-04,East
+KF-16285,Karen Ferguson,Home Office,10604.266,7,2015-09-26,2018-09-24,West
+KH-16330,Katharine Harms,Corporate,3312.864,8,2015-04-01,2018-11-20,East
+KH-16360,Katherine Hughes,Consumer,3100.612,6,2015-04-29,2018-12-29,South
+KH-16510,Keith Herrera,Consumer,5229.695,6,2015-08-15,2018-12-08,West
+KH-16630,Ken Heidel,Corporate,3918.966,9,2015-11-01,2018-11-02,East
+KH-16690,Kristen Hastings,Corporate,5990.799,7,2015-03-21,2018-12-28,South
+KL-16555,Kelly Lampkin,Corporate,5016.488,8,2015-06-15,2018-12-14,South
+KL-16645,Ken Lonsdale,Consumer,14175.229,12,2015-07-25,2018-11-13,West
+KM-16225,Kalyca Meade,Corporate,2260.958,6,2016-07-06,2018-12-16,East
+KM-16375,Katherine Murray,Home Office,5620.186,8,2015-07-20,2018-11-04,East
+KM-16660,Khloe Miller,Consumer,453.538,5,2015-12-22,2018-12-15,West
+KM-16720,Kunst Miller,Consumer,4909.472,8,2015-03-30,2018-12-02,West
+KN-16390,Katherine Nockton,Corporate,2224.086,8,2015-12-02,2018-12-11,East
+KN-16450,Kean Nguyen,Corporate,2171.962,5,2015-04-12,2018-11-08,West
+KN-16705,Kristina Nunn,Home Office,2003.01,7,2015-03-02,2018-09-23,West
+KS-16300,Karen Seio,Corporate,88.472,3,2016-01-13,2018-03-10,South
+KT-16465,Kean Takahito,Consumer,3057.1,7,2015-09-08,2017-12-04,Central
+KT-16480,Kean Thornton,Consumer,4642.0884,10,2015-03-10,2018-09-21,East
+KW-16435,Katrina Willman,Consumer,4416.52,5,2016-08-24,2018-09-25,South
+KW-16570,Kelly Williams,Consumer,449.096,4,2015-09-30,2016-11-20,Central
+LA-16780,Laura Armstrong,Corporate,8673.222,11,2015-04-29,2018-07-29,Central
+LB-16735,Larry Blacks,Consumer,50.188,3,2017-07-25,2018-11-12,South
+LB-16795,Laurel Beltran,Home Office,4985.676,8,2015-04-23,2018-07-31,West
+LC-16870,Lena Cacioppo,Consumer,2580.704,8,2016-05-03,2018-12-03,West
+LC-16885,Lena Creighton,Consumer,7663.126,12,2015-04-25,2018-12-14,East
+LC-16930,Linda Cazamias,Corporate,4492.946,8,2015-02-20,2018-11-19,West
+LC-16960,Lindsay Castell,Home Office,3246.626,4,2016-02-23,2017-10-20,West
+LC-17050,Liz Carlisle,Consumer,2095.064,5,2015-01-31,2018-11-06,South
+LC-17140,Logan Currie,Consumer,2633.582,9,2015-09-09,2018-12-17,East
+LD-16855,Lela Donovan,Corporate,5.304,1,2017-06-26,2017-06-26,Central
+LD-17005,Lisa DeCherney,Consumer,1961.934,4,2015-09-29,2017-11-11,East
+LE-16810,Laurel Elliston,Consumer,1469.45,6,2015-05-27,2018-12-09,South
+LF-17185,Luke Foster,Consumer,3930.509,7,2015-07-26,2018-12-08,Central
+LH-16750,Larry Hughes,Consumer,287.426,3,2015-09-21,2018-08-01,South
+LH-16900,Lena Hernandez,Consumer,2295.332,9,2015-08-19,2018-12-09,South
+LH-17020,Lisa Hazard,Consumer,318.239,4,2015-09-08,2018-05-05,West
+LH-17155,Logan Haushalter,Consumer,1739.689,9,2015-12-12,2017-12-10,West
+LL-16840,Lauren Leatherbury,Consumer,2454.554,5,2015-04-29,2018-04-25,South
+LM-17065,Liz MacKendrick,Consumer,1346.774,5,2015-06-27,2017-12-04,East
+LO-17170,Lori Olson,Corporate,644.35,5,2016-02-06,2018-12-28,East
+LP-17080,Liz Pelletier,Consumer,756.606,4,2015-06-24,2018-11-20,West
+LP-17095,Liz Preis,Consumer,3104.439,6,2017-09-08,2018-12-21,Central
+LR-16915,Lena Radford,Consumer,5142.892,6,2015-08-08,2018-12-04,West
+LR-17035,Lisa Ryan,Corporate,1879.306,5,2015-09-07,2018-08-20,East
+LS-16945,Linda Southworth,Corporate,2845.27,6,2016-04-25,2018-07-05,West
+LS-16975,Lindsay Shagiari,Home Office,2988.674,9,2015-10-20,2018-12-10,East
+LS-17200,Luke Schmidt,Corporate,1010.256,6,2015-10-18,2018-09-25,South
+LS-17230,Lycoris Saunders,Consumer,368.88,3,2015-01-06,2016-11-14,Central
+LS-17245,Lynn Smith,Consumer,1008.136,6,2015-10-16,2018-11-26,East
+LT-16765,Larry Tron,Consumer,329.876,3,2015-09-01,2018-12-04,West
+LT-17110,Liz Thompson,Consumer,2936.252,8,2015-06-01,2018-11-26,West
+LW-16825,Laurel Workman,Corporate,2238.061,5,2015-05-30,2018-10-03,West
+LW-16990,Lindsay Williams,Corporate,3230.308,6,2017-05-05,2018-11-27,West
+LW-17125,Liz Willingham,Consumer,1259.04,3,2015-09-11,2018-06-08,South
+LW-17215,Luke Weiss,Consumer,5420.514,7,2015-09-12,2018-12-09,East
+MA-17560,Matt Abelman,Home Office,4299.161,11,2015-08-08,2018-10-27,East
+MA-17995,Michelle Arnett,Home Office,2453.284,6,2015-09-20,2018-06-27,West
+MB-17305,Maria Bertelson,Consumer,1548.702,10,2015-08-08,2018-11-12,East
+MB-18085,Mick Brown,Consumer,1428.231,7,2015-01-05,2018-11-16,South
+MC-17275,Marc Crier,Consumer,2725.982,8,2015-09-08,2018-10-15,West
+MC-17425,Mark Cousins,Corporate,4432.138,5,2015-05-30,2017-11-26,South
+MC-17575,Matt Collins,Consumer,1303.893,8,2015-12-02,2018-12-03,West
+MC-17590,Matt Collister,Corporate,2426.067,6,2015-05-20,2018-11-09,Central
+MC-17605,Matt Connell,Corporate,2258.192,8,2015-03-19,2018-09-09,Central
+MC-17635,Matthew Clasen,Corporate,795.154,4,2015-11-28,2018-06-24,West
+MC-17845,Michael Chen,Consumer,3805.714,7,2015-07-05,2018-12-29,West
+MC-18100,Mick Crebagga,Consumer,2218.98,10,2015-06-18,2018-11-19,Central
+MC-18130,Mike Caudle,Corporate,1581.998,5,2015-09-19,2017-12-26,West
+MD-17350,Maribeth Dona,Consumer,2716.412,6,2015-11-05,2018-09-04,East
+MD-17860,Michael Dominguez,Corporate,1204.91,5,2015-12-02,2018-11-24,Central
+ME-17320,Maria Etezadi,Home Office,10663.728,10,2015-01-06,2018-11-18,South
+ME-17725,Max Engle,Consumer,1908.4532,8,2015-07-12,2018-12-02,Central
+ME-18010,Michelle Ellison,Corporate,1256.944,4,2015-07-21,2018-09-29,West
+MF-17665,Maureen Fritzler,Corporate,937.039,5,2015-12-30,2017-11-04,West
+MF-18250,Monica Federle,Corporate,1758.3,5,2015-09-15,2018-12-23,South
+MG-17650,Matthew Grinstein,Home Office,3785.276,7,2015-08-09,2018-12-01,Central
+MG-17680,Maureen Gastineau,Home Office,2350.188,4,2015-10-22,2018-09-29,West
+MG-17695,Maureen Gnade,Consumer,1342.282,3,2015-12-26,2017-06-23,East
+MG-17875,Michael Grace,Home Office,1242.833,5,2015-02-23,2018-09-05,Central
+MG-17890,Michael Granlund,Home Office,776.384,9,2015-12-29,2018-09-22,East
+MG-18145,Mike Gockenbach,Consumer,3061.543,4,2015-03-29,2018-10-07,West
+MG-18205,Mitch Gastineau,Corporate,16.739,1,2018-04-10,2018-04-10,South
+MH-17290,Marc Harrigan,Home Office,1691.505,5,2015-04-26,2018-03-11,East
+MH-17440,Mark Haberlin,Corporate,400.016,4,2015-02-04,2017-12-19,Central
+MH-17455,Mark Hamilton,Consumer,2146.694,7,2015-07-11,2018-07-13,Central
+MH-17620,Matt Hagelstein,Corporate,1252.8,4,2016-12-05,2018-07-28,West
+MH-17785,Maya Herman,Corporate,2203.778,7,2015-05-27,2018-09-23,West
+MH-18025,Michelle Huthwaite,Consumer,2984.948,5,2015-07-08,2018-11-11,South
+MH-18115,Mick Hernandez,Home Office,5503.093,9,2017-08-23,2018-12-25,Central
+MJ-17740,Max Jones,Consumer,6320.746,7,2016-06-09,2018-12-08,West
+MK-17905,Michael Kennedy,Corporate,2302.368,8,2015-11-18,2018-12-02,East
+MK-18160,Mike Kennedy,Consumer,1031.602,4,2015-12-19,2018-05-04,South
+ML-17395,Marina Lichtenstein,Corporate,2722.843,9,2015-02-14,2018-10-22,West
+ML-17410,Maris LaWare,Consumer,2885.26,5,2015-11-14,2018-11-06,West
+ML-17755,Max Ludwig,Home Office,2071.914,7,2017-08-04,2018-12-01,West
+ML-18040,Michelle Lonsdale,Corporate,742.082,3,2018-03-26,2018-10-12,West
+ML-18265,Muhammed Lee,Consumer,162.232,2,2016-05-31,2018-09-21,West
+MM-17260,Magdelene Morse,Consumer,1314.023,4,2015-05-28,2018-07-15,East
+MM-17920,Michael Moore,Consumer,3640.256,10,2015-01-13,2018-12-23,South
+MM-18055,Michelle Moray,Consumer,2749.881,8,2015-04-11,2018-10-30,Central
+MM-18280,Muhammed MacIntyre,Corporate,775.414,9,2015-01-20,2018-10-06,Central
+MN-17935,Michael Nguyen,Consumer,2477.946,6,2015-02-16,2018-11-26,East
+MO-17500,Mary O'Rourke,Consumer,922.487,4,2015-11-28,2018-10-19,East
+MO-17800,Meg O'Connel,Home Office,1687.027,8,2016-09-17,2018-09-17,South
+MO-17950,Michael Oakman,Consumer,154.288,2,2016-04-02,2018-07-03,Central
+MP-17470,Mark Packer,Home Office,2945.822,6,2015-03-30,2017-01-11,East
+MP-17965,Michael Paige,Corporate,3983.642,9,2016-04-18,2018-10-19,Central
+MP-18175,Mike Pelletier,Home Office,4757.332,8,2015-11-25,2018-12-14,Central
+MR-17545,Mathew Reese,Home Office,639.178,4,2015-09-03,2018-08-27,East
+MS-17365,Maribeth Schnelling,Consumer,7443.69,10,2015-09-09,2018-04-01,West
+MS-17530,MaryBeth Skach,Consumer,475.656,4,2015-11-04,2017-10-22,South
+MS-17710,Maurice Satty,Consumer,1613.402,6,2015-03-24,2017-11-12,Central
+MS-17770,Maxwell Schwartz,Consumer,3144.678,9,2015-07-04,2018-08-31,West
+MS-17830,Melanie Seite,Consumer,370.348,4,2015-01-09,2017-10-04,East
+MS-17980,Michael Stewart,Corporate,855.116,6,2015-06-30,2018-12-04,East
+MT-17815,Meg Tillman,Consumer,2890.139,6,2016-11-06,2018-11-11,South
+MT-18070,Michelle Tran,Home Office,1319.4498,4,2015-09-25,2018-06-10,West
+MV-17485,Mark Van Huff,Consumer,1560.05,9,2015-01-20,2018-12-03,West
+MV-18190,Mike Vittorini,Consumer,1734.574,7,2015-01-30,2018-12-11,South
+MW-18220,Mitch Webber,Consumer,5341.9,7,2015-08-25,2018-12-13,East
+MW-18235,Mitch Willingham,Corporate,5253.876,2,2015-05-21,2018-11-16,South
+MY-17380,Maribeth Yedwab,Corporate,2254.285,7,2016-10-26,2018-12-01,West
+MY-18295,Muhammed Yedwab,Corporate,3601.88,10,2015-04-28,2018-10-20,East
+MZ-17335,Maria Zettner,Home Office,593.606,4,2016-11-08,2018-11-30,West
+MZ-17515,Mary Zewe,Corporate,2564.906,6,2015-04-04,2018-03-23,West
+NB-18580,Nicole Brennan,Corporate,273.872,2,2015-09-26,2015-10-22,East
+NB-18655,Nona Balk,Corporate,1972.599,9,2015-12-05,2018-12-11,East
+NC-18340,Nat Carroll,Consumer,2461.404,5,2015-03-30,2018-05-20,Central
+NC-18415,Nathan Cano,Consumer,2218.99,6,2015-05-03,2018-11-19,Central
+NC-18535,Nick Crebassa,Corporate,8241.739,7,2015-07-23,2018-12-24,West
+NC-18625,Noah Childs,Corporate,1821.742,5,2015-10-29,2018-06-09,Central
+ND-18370,Natalie DeCherney,Consumer,4326.139,9,2015-01-13,2018-12-03,East
+ND-18460,Neil Ducich,Corporate,2893.455,6,2015-02-06,2018-06-30,South
+NF-18385,Natalie Fritzler,Consumer,8080.474,6,2015-02-11,2018-10-12,East
+NF-18475,Neil Französisch,Home Office,377.162,4,2015-03-14,2017-07-23,Central
+NF-18595,Nicole Fjeld,Home Office,2031.472,7,2015-04-19,2018-09-07,West
+NG-18355,Nat Gilpin,Corporate,1869.58,5,2015-11-24,2018-11-12,East
+NG-18430,Nathan Gelder,Consumer,1395.938,5,2015-11-24,2018-11-12,Central
+NH-18610,Nicole Hansen,Corporate,2518.666,6,2016-09-19,2018-06-24,South
+NK-18490,Neil Knudson,Home Office,572.048,7,2016-05-28,2018-10-21,East
+NL-18310,Nancy Lomonaco,Home Office,1418.09,4,2015-10-31,2018-11-02,West
+NM-18445,Nathan Mautz,Home Office,6459.344,7,2015-02-08,2018-07-23,East
+NM-18520,Neoma Murray,Consumer,2161.979,10,2016-09-08,2018-04-30,West
+NP-18325,Naresj Patel,Consumer,5529.62,6,2015-05-13,2018-12-05,East
+NP-18670,Nora Paige,Consumer,3908.402,5,2016-02-27,2018-11-02,East
+NP-18685,Nora Pelletier,Home Office,1164.73,5,2015-03-07,2017-11-19,Central
+NP-18700,Nora Preis,Consumer,7903.1825,7,2015-09-05,2018-08-14,West
+NR-18550,Nick Radford,Consumer,2367.277,5,2015-06-07,2018-06-03,South
+NS-18505,Neola Schneider,Consumer,2575.863,4,2017-11-24,2018-12-24,East
+NS-18640,Noel Staavos,Corporate,2857.753,12,2015-06-25,2018-07-09,East
+NW-18400,Natalie Webber,Consumer,7234.014,7,2015-06-21,2018-07-11,East
+NZ-18565,Nick Zandusky,Home Office,2488.31,9,2015-08-02,2018-10-06,Central
+ON-18715,Odella Nelson,Corporate,1567.52,9,2015-09-13,2017-11-15,South
+OT-18730,Olvera Toch,Consumer,3818.624,5,2016-04-20,2018-10-26,East
+PA-19060,Pete Armstrong,Home Office,729.408,6,2015-05-17,2018-09-18,Central
+PB-18805,Patrick Bzostek,Home Office,740.356,3,2016-11-20,2018-12-05,West
+PB-19105,Peter Bühler,Consumer,688.324,4,2015-11-15,2018-11-03,Central
+PB-19150,Philip Brown,Consumer,1456.95,8,2015-07-14,2018-09-24,West
+PB-19210,Phillip Breyer,Corporate,132.738,2,2015-11-23,2017-02-11,Central
+PC-18745,Pamela Coakley,Corporate,1832.064,4,2015-12-31,2018-12-28,East
+PC-19000,Pauline Chand,Home Office,1061.488,2,2015-04-08,2016-08-01,West
+PF-19120,Peter Fuller,Consumer,9062.864,4,2015-05-05,2016-09-17,East
+PF-19165,Philip Fox,Consumer,2770.0,6,2015-09-20,2018-06-17,South
+PF-19225,Phillip Flathmann,Consumer,2206.128,5,2017-06-26,2018-09-07,West
+PG-18820,Patrick Gardner,Consumer,3086.907,13,2015-05-09,2018-11-24,West
+PG-18895,Paul Gonzalez,Consumer,1987.164,9,2015-05-11,2018-11-03,South
+PH-18790,Patricia Hirasaki,Home Office,729.648,1,2018-10-21,2018-10-21,South
+PJ-18835,Patrick Jones,Corporate,1220.09,8,2015-05-28,2018-11-21,South
+PJ-19015,Pauline Johnson,Consumer,1677.536,6,2015-04-07,2018-08-18,West
+PK-18910,Paul Knutson,Home Office,1441.152,2,2015-04-04,2017-09-03,East
+PK-19075,Pete Kriz,Consumer,8646.934,12,2015-11-11,2018-12-21,East
+PL-18925,Paul Lucas,Home Office,239.481,5,2015-11-01,2018-12-15,East
+PM-18940,Paul MacIntyre,Consumer,1405.402,3,2015-05-04,2017-12-09,South
+PM-19135,Peter McVee,Home Office,4115.662,4,2016-12-19,2018-11-09,East
+PN-18775,Parhena Norris,Home Office,1467.152,8,2016-08-07,2018-11-30,South
+PO-18850,Patrick O'Brill,Consumer,7473.8282,11,2015-11-02,2018-12-26,South
+PO-18865,Patrick O'Donnell,Consumer,2493.214,7,2015-03-23,2018-12-30,West
+PO-19180,Philisse Overcash,Home Office,4893.043,9,2016-08-11,2018-07-23,Central
+PO-19195,Phillina Ober,Home Office,1056.858,5,2015-01-04,2018-10-05,East
+PP-18955,Paul Prost,Home Office,7252.608,10,2015-08-26,2018-09-24,South
+PR-18880,Patrick Ryan,Consumer,1840.178,5,2015-09-05,2018-11-24,West
+PS-18760,Pamela Stobb,Consumer,2181.479,6,2015-06-15,2018-09-14,East
+PS-18970,Paul Stevenson,Home Office,1278.639,8,2015-04-15,2018-10-22,West
+PS-19045,Penelope Sewall,Home Office,6843.634,7,2015-12-20,2018-05-08,West
+PT-19090,Pete Takahito,Consumer,158.46,3,2015-09-12,2018-10-20,Central
+PV-18985,Paul Van Hugh,Home Office,2876.046,5,2015-07-12,2018-10-02,West
+PW-19030,Pauline Webber,Corporate,3454.916,10,2015-05-16,2018-11-14,West
+PW-19240,Pierre Wener,Consumer,3922.415,7,2015-11-18,2017-09-22,East
+QJ-19255,Quincy Jones,Corporate,6108.338,9,2015-03-17,2018-12-05,East
+RA-19285,Ralph Arnett,Consumer,2617.906,9,2015-12-13,2018-12-25,West
+RA-19885,Ruben Ausman,Corporate,3546.224,6,2015-04-08,2018-11-05,South
+RA-19915,Russell Applegate,Consumer,4793.543,9,2015-06-30,2018-12-18,West
+RA-19945,Ryan Akin,Consumer,1686.9225,5,2015-08-29,2018-10-30,South
+RB-19330,Randy Bradley,Consumer,1008.196,2,2015-11-17,2018-10-23,East
+RB-19360,Raymond Buch,Consumer,15117.339,6,2017-04-01,2018-09-25,West
+RB-19435,Richard Bierner,Consumer,1864.156,7,2015-03-11,2018-11-19,West
+RB-19465,Rick Bensley,Home Office,4715.466,12,2015-03-14,2018-12-21,Central
+RB-19570,Rob Beeghly,Consumer,528.546,5,2017-04-28,2018-12-05,Central
+RB-19645,Robert Barroso,Corporate,221.084,5,2015-08-23,2017-03-22,West
+RB-19705,Roger Barcio,Home Office,2067.45,4,2016-08-22,2018-11-06,East
+RB-19795,Ross Baird,Home Office,5633.316,8,2015-06-03,2018-11-28,East
+RC-19825,Roy Collins,Consumer,966.409,6,2015-12-05,2017-12-26,West
+RC-19960,Ryan Crowe,Consumer,652.644,4,2015-08-25,2018-09-11,West
+RD-19480,Rick Duston,Consumer,4272.93,8,2015-06-08,2018-10-19,West
+RD-19585,Rob Dowd,Consumer,2832.904,9,2015-04-02,2018-07-03,South
+RD-19660,Robert Dilbeck,Home Office,2745.892,4,2016-10-24,2018-09-07,Central
+RD-19720,Roger Demir,Consumer,1419.737,10,2015-07-20,2018-12-09,West
+RD-19810,Ross DeVincentis,Home Office,1137.616,8,2015-10-27,2018-12-16,Central
+RD-19900,Ruben Dartt,Consumer,3133.924,9,2015-04-05,2018-09-07,West
+RD-19930,Russell D'Ascenzo,Consumer,970.942,4,2015-10-03,2018-11-18,West
+RE-19405,Ricardo Emerson,Consumer,48.36,1,2015-12-29,2015-12-29,East
+RE-19450,Richard Eichhorn,Consumer,666.52,4,2016-08-15,2018-03-03,Central
+RF-19345,Randy Ferguson,Corporate,3309.15,8,2015-05-20,2017-12-05,South
+RF-19735,Roland Fjeld,Consumer,2341.296,7,2015-08-06,2018-10-02,Central
+RF-19840,Roy Französisch,Consumer,938.862,7,2015-11-12,2018-12-24,West
+RH-19495,Rick Hansen,Consumer,3621.376,5,2015-08-23,2018-11-28,East
+RH-19510,Rick Huthwaite,Home Office,6979.18,6,2015-11-16,2017-09-19,West
+RH-19555,Ritsa Hightower,Consumer,740.382,2,2016-12-04,2017-07-29,South
+RH-19600,Rob Haberlin,Consumer,2085.74,3,2016-07-02,2017-07-14,Central
+RK-19300,Ralph Kennedy,Consumer,1460.192,3,2016-07-20,2018-09-02,Central
+RL-19615,Rob Lucas,Consumer,6234.91,8,2015-12-05,2018-08-31,Central
+RM-19375,Raymond Messe,Consumer,1453.474,6,2015-05-11,2018-01-19,East
+RM-19675,Robert Marley,Home Office,5979.096,5,2015-11-14,2018-12-24,West
+RM-19750,Roland Murray,Consumer,98.35,1,2018-03-06,2018-03-06,East
+RO-19780,Rose O'Brian,Consumer,3815.478,7,2016-05-12,2018-11-25,South
+RP-19270,Rachel Payne,Corporate,954.6452,4,2015-10-19,2017-08-21,West
+RP-19390,Resi Pölking,Consumer,5153.084,12,2015-05-24,2018-11-27,Central
+RP-19855,Roy Phan,Corporate,2055.356,7,2016-02-15,2018-12-02,Central
+RR-19315,Ralph Ritter,Consumer,615.932,2,2017-11-14,2018-12-11,Central
+RR-19525,Rick Reed,Corporate,3302.262,6,2015-09-09,2018-07-13,East
+RS-19420,Ricardo Sperren,Corporate,3221.29,5,2015-08-05,2018-10-15,East
+RS-19765,Roland Schwarz,Corporate,4159.77,8,2015-04-07,2018-11-24,West
+RS-19870,Roy Skaria,Home Office,22.328,2,2017-06-07,2018-12-11,Central
+RW-19540,Rick Wilson,Corporate,7397.401,7,2016-02-03,2018-09-01,West
+RW-19630,Rob Williams,Corporate,3279.746,9,2015-06-28,2018-10-02,West
+RW-19690,Robert Waldorf,Consumer,3495.646,5,2017-05-30,2018-10-12,East
+SA-20830,Sue Ann Reed,Consumer,4767.3415,10,2015-02-22,2018-10-28,Central
+SB-20170,Sarah Bern,Consumer,1348.02,3,2015-06-06,2018-06-12,East
+SB-20185,Sarah Brown,Consumer,6410.996,6,2015-09-20,2018-06-25,West
+SB-20290,Sean Braxton,Corporate,8057.891,7,2015-05-09,2018-11-13,Central
+SC-20020,Sam Craven,Consumer,3362.9636,5,2015-03-03,2016-11-10,Central
+SC-20050,Sample Company A,Home Office,4624.572,9,2015-03-18,2018-11-20,West
+SC-20095,Sanjit Chand,Consumer,14142.334,9,2015-02-12,2018-01-15,Central
+SC-20230,Scot Coram,Corporate,4371.958,4,2017-06-06,2018-08-03,West
+SC-20260,Scott Cohen,Corporate,3729.793,8,2015-04-06,2018-06-26,West
+SC-20305,Sean Christensen,Consumer,3650.473,6,2016-01-27,2018-12-01,West
+SC-20380,Shahid Collister,Consumer,5992.536,9,2015-03-01,2018-11-30,South
+SC-20440,Shaun Chance,Corporate,1874.998,7,2016-08-17,2018-11-24,West
+SC-20575,Sonia Cooley,Consumer,799.798,4,2015-06-16,2018-09-29,Central
+SC-20680,Steve Carroll,Home Office,1254.64,6,2015-11-21,2018-08-26,Central
+SC-20695,Steve Chapman,Corporate,2576.408,10,2015-12-16,2018-10-02,Central
+SC-20725,Steven Cartwright,Consumer,5226.21,11,2015-06-03,2018-06-26,West
+SC-20770,Stewart Carmichael,Corporate,4492.657,7,2016-06-20,2018-11-19,East
+SC-20800,Stuart Calhoun,Consumer,279.256,4,2016-12-11,2018-11-30,Central
+SC-20845,Sung Chung,Consumer,14.112,1,2017-11-11,2017-11-11,Central
+SD-20485,Shirley Daniels,Home Office,6121.114,9,2015-01-26,2018-06-13,Central
+SE-20110,Sanjit Engle,Consumer,12209.438,11,2015-04-11,2018-12-21,South
+SF-20065,Sandra Flanagan,Consumer,763.546,7,2015-09-10,2018-11-01,East
+SF-20200,Sarah Foster,Consumer,3422.786,9,2015-12-23,2018-11-01,West
+SF-20965,Sylvia Foulston,Corporate,3336.535,9,2015-10-21,2018-11-12,Central
+SG-20080,Sandra Glassco,Consumer,3406.581,3,2016-10-31,2018-12-22,West
+SG-20470,Sheri Gordon,Consumer,1884.798,8,2015-07-26,2018-06-30,East
+SG-20605,Speros Goranitis,Consumer,3118.892,5,2015-11-03,2018-09-13,East
+SG-20890,Susan Gilcrest,Corporate,47.946,3,2015-03-30,2018-05-18,Central
+SH-19975,Sally Hughsby,Corporate,2465.6595,12,2015-12-10,2018-12-01,West
+SH-20395,Shahid Hopkins,Consumer,2180.718,10,2015-11-02,2018-12-07,South
+SH-20635,Stefanie Holloman,Corporate,2096.392,2,2015-12-16,2016-11-26,West
+SJ-20125,Sanjit Jacobs,Home Office,3949.656,12,2016-09-22,2018-09-26,Central
+SJ-20215,Sarah Jordon,Consumer,1341.036,6,2016-02-09,2018-12-01,Central
+SJ-20500,Shirley Jackson,Consumer,1318.776,5,2015-08-31,2018-04-21,East
+SK-19990,Sally Knutson,Consumer,883.409,3,2017-11-28,2018-12-22,East
+SL-20155,Sara Luxemburg,Home Office,3046.532,6,2015-09-21,2018-10-21,Central
+SM-20005,Sally Matthias,Consumer,244.494,4,2015-11-23,2017-11-04,East
+SM-20320,Sean Miller,Home Office,25043.05,5,2015-03-18,2018-10-12,South
+SM-20905,Susan MacKendrick,Consumer,1043.041,1,2017-05-03,2017-05-03,East
+SM-20950,Suzanne McNair,Corporate,4464.862,11,2015-09-29,2018-12-05,East
+SN-20560,Skye Norling,Home Office,1860.418,6,2016-06-18,2018-09-10,Central
+SN-20710,Steve Nguyen,Home Office,3127.9592,7,2015-05-06,2018-10-12,Central
+SO-20335,Sean O'Donnell,Consumer,2602.5755,6,2016-10-11,2018-12-01,South
+SP-20545,Sibella Parks,Corporate,1306.086,6,2015-10-13,2018-02-06,East
+SP-20620,Stefania Perrino,Corporate,5440.319,9,2015-09-08,2018-11-13,East
+SP-20650,Stephanie Phelps,Corporate,1872.436,9,2015-04-16,2017-12-09,East
+SP-20860,Sung Pak,Corporate,4282.94,10,2015-12-15,2018-10-12,West
+SP-20920,Susan Pistek,Consumer,3990.689,6,2015-11-22,2018-10-21,East
+SR-20425,Sharelle Roach,Home Office,3233.481,5,2015-06-14,2018-12-22,West
+SR-20740,Steven Roelle,Home Office,4345.886,8,2015-02-20,2018-06-17,East
+SS-20140,Saphhira Shifley,Corporate,1324.028,8,2015-11-23,2018-12-15,South
+SS-20410,Shahid Shariari,Consumer,3056.807,6,2015-05-30,2018-09-11,East
+SS-20515,Shirley Schmidt,Home Office,613.4,3,2015-07-14,2017-08-26,South
+SS-20590,Sonia Sunley,Consumer,418.49,6,2015-08-05,2017-10-24,West
+SS-20875,Sung Shariari,Consumer,964.636,5,2015-12-14,2018-09-01,East
+ST-20530,Shui Tom,Consumer,433.34,7,2015-02-14,2018-08-27,East
+SU-20665,Stephanie Ulpright,Home Office,2595.364,7,2016-12-05,2018-12-10,Central
+SV-20365,Seth Vernon,Consumer,11470.95,10,2015-01-11,2018-09-20,East
+SV-20785,Stewart Visinsky,Consumer,4105.305,9,2015-04-12,2018-02-13,East
+SV-20815,Stuart Van,Corporate,1271.09,4,2016-05-04,2018-10-15,Central
+SV-20935,Susan Vittorini,Consumer,1903.491,8,2017-03-19,2018-12-28,East
+SW-20245,Scot Wooten,Consumer,1085.078,7,2015-07-20,2018-10-10,South
+SW-20275,Scott Williamson,Consumer,1966.65,6,2015-03-10,2018-11-30,East
+SW-20350,Sean Wendt,Home Office,1019.044,3,2017-04-09,2018-07-21,Central
+SW-20455,Shaun Weien,Consumer,2835.564,6,2016-06-22,2018-07-21,West
+SW-20755,Steven Ward,Corporate,758.696,2,2015-11-02,2017-07-14,East
+SZ-20035,Sam Zeldin,Home Office,3625.329,11,2015-09-07,2018-11-25,Central
+TA-21385,Tom Ashbrook,Home Office,14595.62,4,2015-09-12,2018-10-22,East
+TB-21055,Ted Butterfield,Consumer,1451.361,4,2017-06-17,2018-09-02,East
+TB-21175,Thomas Boland,Corporate,3589.296,4,2015-12-08,2018-11-02,South
+TB-21190,Thomas Brumley,Home Office,816.174,4,2015-12-27,2018-11-11,East
+TB-21250,Tim Brockman,Consumer,1602.376,7,2015-12-08,2018-01-15,West
+TB-21280,Toby Braunhardt,Consumer,2198.45,6,2015-06-21,2017-05-26,Central
+TB-21355,Todd Boyes,Corporate,834.328,5,2017-01-25,2018-08-06,South
+TB-21400,Tom Boeckenhauer,Consumer,9108.742,6,2015-02-03,2018-06-11,East
+TB-21520,Tracy Blumstein,Consumer,4737.486,9,2015-10-17,2018-09-14,East
+TB-21595,Troy Blackwell,Consumer,1240.871,4,2015-02-18,2018-03-20,Central
+TB-21625,Trudy Brown,Consumer,2797.668,9,2015-08-06,2018-11-30,East
+TC-20980,Tamara Chand,Corporate,19052.218,5,2015-11-07,2017-11-26,Central
+TC-21145,Theresa Coyne,Corporate,1038.26,1,2018-09-15,2018-09-15,East
+TC-21295,Toby Carlisle,Consumer,4266.812,8,2015-10-14,2018-12-03,East
+TC-21475,Tony Chapman,Home Office,1244.976,9,2015-11-22,2018-07-30,South
+TC-21535,Tracy Collins,Home Office,742.558,7,2015-11-03,2018-12-26,West
+TD-20995,Tamara Dahlen,Consumer,1434.548,9,2015-05-19,2018-11-23,West
+TG-21310,Toby Gnade,Consumer,3058.372,5,2016-03-09,2018-01-27,West
+TG-21640,Trudy Glocke,Consumer,2074.661,4,2015-03-31,2018-09-07,South
+TH-21100,Thea Hendricks,Consumer,2422.824,5,2015-09-27,2018-01-20,East
+TH-21115,Thea Hudgings,Corporate,2942.772,4,2015-09-23,2018-11-02,Central
+TH-21235,Tiffany House,Corporate,1022.201,8,2015-11-04,2018-09-04,Central
+TH-21550,Tracy Hopkins,Home Office,4234.096,7,2015-04-05,2018-10-19,South
+TM-21010,Tamara Manning,Consumer,2819.026,7,2015-02-21,2018-09-18,West
+TM-21490,Tony Molinari,Consumer,1094.678,3,2018-03-30,2018-08-22,East
+TN-21040,Tanja Norvell,Home Office,3130.221,7,2015-10-10,2018-10-01,West
+TP-21130,Theone Pippenger,Consumer,4454.056,9,2016-04-14,2018-12-22,Central
+TP-21415,Tom Prescott,Consumer,5329.0048,5,2016-11-28,2018-09-17,East
+TP-21565,Tracy Poddar,Corporate,1936.64,4,2016-03-01,2018-01-14,West
+TR-21325,Toby Ritter,Consumer,675.942,5,2015-12-01,2018-06-20,Central
+TS-21085,Thais Sissman,Consumer,4.833,2,2016-07-19,2018-01-07,South
+TS-21160,Theresa Swint,Corporate,2163.624,6,2015-04-23,2017-08-13,East
+TS-21205,Thomas Seio,Corporate,5371.09,7,2015-03-21,2018-06-15,South
+TS-21340,Toby Swindell,Consumer,974.782,5,2015-01-19,2018-05-18,West
+TS-21370,Todd Sumrall,Corporate,11891.751,6,2015-10-28,2018-11-24,East
+TS-21430,Tom Stivers,Corporate,2054.14,5,2015-07-30,2018-07-11,West
+TS-21505,Tony Sayre,Consumer,2243.274,6,2015-12-20,2018-12-19,West
+TS-21610,Troy Staebel,Consumer,2820.424,7,2015-08-16,2018-11-05,West
+TS-21655,Trudy Schmidt,Consumer,3368.094,5,2016-02-06,2018-05-06,Central
+TT-21070,Ted Trevino,Consumer,4915.602,7,2015-05-18,2018-11-29,West
+TT-21220,Thomas Thornton,Consumer,1427.044,8,2015-09-23,2018-06-30,Central
+TT-21265,Tim Taslimi,Corporate,439.5,3,2016-08-15,2017-11-19,West
+TT-21460,Tonja Turnell,Home Office,5364.808,7,2016-12-08,2018-12-18,Central
+TW-21025,Tamara Willingham,Home Office,5278.826,7,2015-12-22,2018-10-27,West
+TZ-21580,Tracy Zic,Consumer,1707.286,4,2015-11-11,2018-11-25,West
+VB-21745,Victoria Brennan,Corporate,2005.596,6,2016-07-17,2018-11-06,East
+VD-21670,Valerie Dominguez,Consumer,6442.254,6,2015-08-04,2017-05-28,East
+VF-21715,Vicky Freymann,Home Office,847.944,5,2015-03-01,2018-12-17,Central
+VG-21790,Vivek Gonzalez,Consumer,846.01,6,2015-08-08,2018-07-29,West
+VG-21805,Vivek Grady,Corporate,418.432,4,2015-09-22,2017-08-26,Central
+VM-21685,Valerie Mitchum,Home Office,2454.866,7,2015-04-07,2018-11-06,East
+VM-21835,Vivian Mathis,Consumer,380.69,5,2015-03-22,2018-09-04,East
+VP-21730,Victor Preis,Home Office,993.902,3,2016-07-05,2018-11-30,East
+VP-21760,Victoria Pisteka,Corporate,3360.526,7,2015-09-06,2018-10-16,South
+VS-21820,Vivek Sundaresam,Consumer,1055.981,4,2015-01-07,2018-05-23,Central
+VT-21700,Valerie Takahito,Home Office,1736.596,2,2015-06-06,2016-04-05,East
+VW-21775,Victoria Wilson,Corporate,6134.038,10,2015-05-11,2018-12-02,East
+WB-21850,William Brown,Consumer,6129.71,10,2015-11-04,2018-12-10,West
+XP-21865,Xylona Preis,Consumer,2374.658,11,2015-01-20,2018-11-17,Central
+YC-21895,Yoseph Carroll,Corporate,5454.35,5,2015-11-17,2018-12-26,East
+YS-21880,Yana Sorensen,Corporate,6720.444,8,2016-01-12,2018-12-21,West
+ZC-21910,Zuschuss Carroll,Consumer,8025.707,13,2015-10-13,2018-11-06,Central
+ZD-21925,Zuschuss Donatelli,Consumer,1493.944,5,2015-08-27,2018-06-11,South

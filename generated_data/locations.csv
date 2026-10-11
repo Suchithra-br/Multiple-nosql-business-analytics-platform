@@ -1,0 +1,629 @@
+location_id,country,region,state,city,postal_code,total_sales,order_count,transaction_count
+LOC-0001,United States,Central,Illinois,Arlington Heights,60004,14.112,1,1
+LOC-0002,United States,Central,Illinois,Aurora,60505,7572.968,20,34
+LOC-0003,United States,Central,Illinois,Bloomington,61701,963.94,6,8
+LOC-0004,United States,Central,Illinois,Bolingbrook,60440,218.308,3,6
+LOC-0005,United States,Central,Illinois,Buffalo Grove,60089,831.399,2,2
+LOC-0006,United States,Central,Illinois,Carol Stream,60188,1305.81,1,5
+LOC-0007,United States,Central,Illinois,Champaign,61821,151.96,1,1
+LOC-0008,United States,Central,Illinois,Chicago,60610,13627.124,56,108
+LOC-0009,United States,Central,Illinois,Chicago,60623,18434.487,59,101
+LOC-0010,United States,Central,Illinois,Chicago,60653,15758.522,51,99
+LOC-0011,United States,Central,Illinois,Danville,61832,43.372,1,1
+LOC-0012,United States,Central,Illinois,Decatur,62521,2959.297,8,19
+LOC-0013,United States,Central,Illinois,Des Plaines,60016,1493.212,2,6
+LOC-0014,United States,Central,Illinois,Elmhurst,60126,891.628,2,4
+LOC-0015,United States,Central,Illinois,Evanston,60201,1753.799,3,4
+LOC-0016,United States,Central,Illinois,Frankfort,60423,97.632,2,2
+LOC-0017,United States,Central,Illinois,Freeport,61032,215.82,2,4
+LOC-0018,United States,Central,Illinois,Glenview,60025,158.376,1,1
+LOC-0019,United States,Central,Illinois,Highland Park,60035,2035.096,3,7
+LOC-0020,United States,Central,Illinois,Naperville,60540,1288.303,5,8
+LOC-0021,United States,Central,Illinois,Normal,61761,366.744,1,1
+LOC-0022,United States,Central,Illinois,Oak Park,60302,10.192,1,1
+LOC-0023,United States,Central,Illinois,Orland Park,60462,339.96,1,1
+LOC-0024,United States,Central,Illinois,Oswego,60543,321.978,1,3
+LOC-0025,United States,Central,Illinois,Palatine,60067,116.312,1,1
+LOC-0026,United States,Central,Illinois,Park Ridge,60068,685.0,3,3
+LOC-0027,United States,Central,Illinois,Peoria,61604,501.48,4,7
+LOC-0028,United States,Central,Illinois,Quincy,62301,330.284,6,9
+LOC-0029,United States,Central,Illinois,Rockford,61107,3166.228,8,11
+LOC-0030,United States,Central,Illinois,Romeoville,60441,8.952,1,1
+LOC-0031,United States,Central,Illinois,Saint Charles,60174,1388.71,3,6
+LOC-0032,United States,Central,Illinois,Skokie,60076,568.832,5,11
+LOC-0033,United States,Central,Illinois,Tinley Park,60477,22.288,1,1
+LOC-0034,United States,Central,Illinois,Wheeling,60090,737.142,2,3
+LOC-0035,United States,Central,Illinois,Woodstock,60098,857.25,3,3
+LOC-0036,United States,Central,Indiana,Bloomington,47401,603.8,4,7
+LOC-0037,United States,Central,Indiana,Columbus,47201,7960.4,16,34
+LOC-0038,United States,Central,Indiana,Elkhart,46514,171.43,1,2
+LOC-0039,United States,Central,Indiana,Greenwood,46142,1665.05,2,4
+LOC-0040,United States,Central,Indiana,Indianapolis,46203,4834.1,11,18
+LOC-0041,United States,Central,Indiana,La Porte,46350,1021.34,3,8
+LOC-0042,United States,Central,Indiana,Lafayette,47905,19624.51,6,11
+LOC-0043,United States,Central,Indiana,Lawrence,46226,1545.13,6,11
+LOC-0044,United States,Central,Indiana,Mishawaka,46544,776.24,2,2
+LOC-0045,United States,Central,Indiana,New Albany,47150,209.55,1,4
+LOC-0046,United States,Central,Indiana,New Castle,47362,84.61,1,2
+LOC-0047,United States,Central,Indiana,Noblesville,46060,3091.18,2,4
+LOC-0048,United States,Central,Indiana,Portage,46368,16.28,1,1
+LOC-0049,United States,Central,Indiana,Richmond,47374,5876.45,13,21
+LOC-0050,United States,Central,Indiana,South Bend,46614,1238.33,1,6
+LOC-0051,United States,Central,Iowa,Burlington,52601,57.43,2,3
+LOC-0052,United States,Central,Iowa,Cedar Rapids,52402,278.4,1,1
+LOC-0053,United States,Central,Iowa,Des Moines,50315,2008.84,5,12
+LOC-0054,United States,Central,Iowa,Dubuque,52001,1687.3,2,3
+LOC-0055,United States,Central,Iowa,Iowa City,52240,9.99,1,1
+LOC-0056,United States,Central,Iowa,Marion,52302,222.16,2,2
+LOC-0057,United States,Central,Iowa,Urbandale,50322,149.12,2,3
+LOC-0058,United States,Central,Iowa,Waterloo,50701,30.32,1,1
+LOC-0059,United States,Central,Kansas,Garden City,67846,312.38,3,5
+LOC-0060,United States,Central,Kansas,Manhattan,66502,273.96,1,1
+LOC-0061,United States,Central,Kansas,Olathe,66062,895.79,2,5
+LOC-0062,United States,Central,Kansas,Overland Park,66212,606.91,3,6
+LOC-0063,United States,Central,Kansas,Wichita,67212,825.27,5,7
+LOC-0064,United States,Central,Michigan,Ann Arbor,48104,889.273,2,5
+LOC-0065,United States,Central,Michigan,Canton,48187,818.13,2,3
+LOC-0066,United States,Central,Michigan,Dearborn,48126,1603.31,2,5
+LOC-0067,United States,Central,Michigan,Dearborn Heights,48127,1051.57,2,6
+LOC-0068,United States,Central,Michigan,Detroit,48205,23018.732,14,28
+LOC-0069,United States,Central,Michigan,Detroit,48227,11262.78,21,51
+LOC-0070,United States,Central,Michigan,Detroit,48234,8165.432,18,36
+LOC-0071,United States,Central,Michigan,Grand Rapids,49505,392.59,5,5
+LOC-0072,United States,Central,Michigan,Holland,49423,137.86,2,3
+LOC-0073,United States,Central,Michigan,Jackson,49201,15420.036,14,38
+LOC-0074,United States,Central,Michigan,Lansing,48911,1610.286,3,8
+LOC-0075,United States,Central,Michigan,Lincoln Park,48146,387.602,2,3
+LOC-0076,United States,Central,Michigan,Midland,48640,5291.512,5,12
+LOC-0077,United States,Central,Michigan,Mount Pleasant,48858,17.14,1,1
+LOC-0078,United States,Central,Michigan,Oak Park,48237,580.86,1,2
+LOC-0079,United States,Central,Michigan,Rochester Hills,48307,132.52,1,1
+LOC-0080,United States,Central,Michigan,Roseville,48066,638.33,4,6
+LOC-0081,United States,Central,Michigan,Royal Oak,48073,35.34,2,2
+LOC-0082,United States,Central,Michigan,Saginaw,48601,395.86,2,6
+LOC-0083,United States,Central,Michigan,Sterling Heights,48310,110.04,3,3
+LOC-0084,United States,Central,Michigan,Taylor,48180,353.7,3,3
+LOC-0085,United States,Central,Michigan,Trenton,48183,1765.195,4,13
+LOC-0086,United States,Central,Michigan,Westland,48185,2057.976,3,13
+LOC-0087,United States,Central,Minnesota,Apple Valley,55124,137.94,2,2
+LOC-0088,United States,Central,Minnesota,Coon Rapids,55433,503.13,1,2
+LOC-0089,United States,Central,Minnesota,Cottage Grove,55016,144.36,1,2
+LOC-0090,United States,Central,Minnesota,Eagan,55122,214.28,3,8
+LOC-0091,United States,Central,Minnesota,Lakeville,55044,4260.95,5,15
+LOC-0092,United States,Central,Minnesota,Maple Grove,55369,882.87,2,4
+LOC-0093,United States,Central,Minnesota,Minneapolis,55407,16870.54,13,23
+LOC-0094,United States,Central,Minnesota,Moorhead,56560,543.86,2,2
+LOC-0095,United States,Central,Minnesota,Rochester,55901,1957.4,8,17
+LOC-0096,United States,Central,Minnesota,Roseville,55113,2215.52,2,6
+LOC-0097,United States,Central,Minnesota,Saint Cloud,56301,1331.82,1,3
+LOC-0098,United States,Central,Minnesota,Saint Paul,55106,192.83,2,2
+LOC-0099,United States,Central,Minnesota,Woodbury,55125,607.65,2,3
+LOC-0100,United States,Central,Missouri,Columbia,65203,2990.04,3,10
+LOC-0101,United States,Central,Missouri,Gladstone,64118,164.34,1,2
+LOC-0102,United States,Central,Missouri,Independence,64055,2417.37,2,2
+LOC-0103,United States,Central,Missouri,Jefferson City,65109,86.62,1,1
+LOC-0104,United States,Central,Missouri,Kirkwood,63122,241.34,1,2
+LOC-0105,United States,Central,Missouri,Saint Charles,63301,270.94,3,4
+LOC-0106,United States,Central,Missouri,Saint Louis,63116,285.96,4,5
+LOC-0107,United States,Central,Missouri,Saint Peters,63376,697.16,1,1
+LOC-0108,United States,Central,Missouri,Springfield,65807,15051.38,14,39
+LOC-0109,United States,Central,Nebraska,Fremont,68025,1119.01,7,8
+LOC-0110,United States,Central,Nebraska,Grand Island,68801,15.96,1,1
+LOC-0111,United States,Central,Nebraska,Norfolk,68701,17.43,1,1
+LOC-0112,United States,Central,Nebraska,Omaha,68104,6312.53,14,28
+LOC-0113,United States,Central,North Dakota,Fargo,58103,919.91,2,7
+LOC-0114,United States,Central,Oklahoma,Broken Arrow,74012,2439.53,3,5
+LOC-0115,United States,Central,Oklahoma,Edmond,73034,959.55,1,2
+LOC-0116,United States,Central,Oklahoma,Lawton,73505,1057.49,2,4
+LOC-0117,United States,Central,Oklahoma,Muskogee,74403,1721.7,2,4
+LOC-0118,United States,Central,Oklahoma,Norman,73071,1351.33,2,2
+LOC-0119,United States,Central,Oklahoma,Oklahoma City,73120,6596.82,11,23
+LOC-0120,United States,Central,Oklahoma,Tulsa,74133,5556.97,13,26
+LOC-0121,United States,Central,South Dakota,Aberdeen,57401,25.5,1,1
+LOC-0122,United States,Central,South Dakota,Rapid City,57701,152.64,1,2
+LOC-0123,United States,Central,South Dakota,Sioux Falls,57103,1137.42,3,9
+LOC-0124,United States,Central,Texas,Abilene,79605,1.392,1,1
+LOC-0125,United States,Central,Texas,Allen,75002,290.206,2,4
+LOC-0126,United States,Central,Texas,Amarillo,79109,3773.0628,7,10
+LOC-0127,United States,Central,Texas,Arlington,76017,5847.772,10,28
+LOC-0128,United States,Central,Texas,Austin,78745,6057.982,18,39
+LOC-0129,United States,Central,Texas,Baytown,77520,10.368,1,1
+LOC-0130,United States,Central,Texas,Beaumont,77705,143.524,2,3
+LOC-0131,United States,Central,Texas,Bedford,76021,226.256,2,5
+LOC-0132,United States,Central,Texas,Brownsville,78521,1292.2268,4,7
+LOC-0133,United States,Central,Texas,Bryan,77803,65.84,1,4
+LOC-0134,United States,Central,Texas,Carrollton,75007,2047.534,7,13
+LOC-0135,United States,Central,Texas,Cedar Hill,75104,122.376,2,2
+LOC-0136,United States,Central,Texas,College Station,77840,291.042,2,3
+LOC-0137,United States,Central,Texas,Conroe,77301,111.672,1,1
+LOC-0138,United States,Central,Texas,Coppell,75019,135.936,2,4
+LOC-0139,United States,Central,Texas,Corpus Christi,78415,220.544,3,8
+LOC-0140,United States,Central,Texas,Dallas,75081,6341.1428,24,48
+LOC-0141,United States,Central,Texas,Dallas,75217,9720.652,28,55
+LOC-0142,United States,Central,Texas,Dallas,75220,4066.1534,27,53
+LOC-0143,United States,Central,Texas,Deer Park,77536,6.924,1,1
+LOC-0144,United States,Central,Texas,Edinburg,78539,88.276,2,3
+LOC-0145,United States,Central,Texas,El Paso,79907,3546.064,10,19
+LOC-0146,United States,Central,Texas,Fort Worth,76106,6602.7064,12,27
+LOC-0147,United States,Central,Texas,Frisco,75034,57.504,2,2
+LOC-0148,United States,Central,Texas,Garland,75043,67.704,3,4
+LOC-0149,United States,Central,Texas,Grand Prairie,75051,1012.486,7,13
+LOC-0150,United States,Central,Texas,Grapevine,76051,41.528,1,2
+LOC-0151,United States,Central,Texas,Haltom City,76117,269.328,2,4
+LOC-0152,United States,Central,Texas,Harlingen,78550,471.404,2,5
+LOC-0153,United States,Central,Texas,Houston,77036,18522.7876,34,65
+LOC-0154,United States,Central,Texas,Houston,77041,16008.3416,50,114
+LOC-0155,United States,Central,Texas,Houston,77070,18347.5944,49,91
+LOC-0156,United States,Central,Texas,Houston,77095,11077.4192,53,104
+LOC-0157,United States,Central,Texas,Huntsville,77340,6710.6168,10,26
+LOC-0158,United States,Central,Texas,Irving,75061,605.5,5,8
+LOC-0159,United States,Central,Texas,Keller,76248,6.0,1,1
+LOC-0160,United States,Central,Texas,Laredo,78041,1024.34,4,13
+LOC-0161,United States,Central,Texas,League City,77573,875.368,2,6
+LOC-0162,United States,Central,Texas,Lubbock,79424,592.564,4,6
+LOC-0163,United States,Central,Texas,Mansfield,76063,558.877,2,2
+LOC-0164,United States,Central,Texas,Mcallen,78501,866.716,4,19
+LOC-0165,United States,Central,Texas,Mesquite,75150,52.148,3,5
+LOC-0166,United States,Central,Texas,Missouri City,77489,6.37,1,1
+LOC-0167,United States,Central,Texas,Odessa,79762,976.124,4,5
+LOC-0168,United States,Central,Texas,Pasadena,77506,2477.458,9,17
+LOC-0169,United States,Central,Texas,Pearland,77581,494.996,2,3
+LOC-0170,United States,Central,Texas,Pharr,78577,1540.708,2,4
+LOC-0171,United States,Central,Texas,Plano,75023,3530.3746,8,15
+LOC-0172,United States,Central,Texas,Port Arthur,77642,737.0528,3,6
+LOC-0173,United States,Central,Texas,Richardson,75080,1288.464,1,2
+LOC-0174,United States,Central,Texas,Round Rock,78664,4854.0528,3,7
+LOC-0175,United States,Central,Texas,San Angelo,76903,650.636,2,4
+LOC-0176,United States,Central,Texas,San Antonio,78207,21843.528,27,59
+LOC-0177,United States,Central,Texas,San Marcos,78666,108.444,1,4
+LOC-0178,United States,Central,Texas,Texas City,77590,790.972,2,3
+LOC-0179,United States,Central,Texas,The Colony,75056,142.16,2,3
+LOC-0180,United States,Central,Texas,Tyler,75701,347.206,2,5
+LOC-0181,United States,Central,Texas,Waco,76706,606.1072,4,6
+LOC-0182,United States,Central,Wisconsin,Appleton,54915,1671.31,2,2
+LOC-0183,United States,Central,Wisconsin,Eau Claire,54703,1645.65,4,6
+LOC-0184,United States,Central,Wisconsin,Franklin,53132,4774.25,5,9
+LOC-0185,United States,Central,Wisconsin,Green Bay,54302,527.32,4,4
+LOC-0186,United States,Central,Wisconsin,Kenosha,53142,3906.73,3,9
+LOC-0187,United States,Central,Wisconsin,La Crosse,54601,830.41,2,5
+LOC-0188,United States,Central,Wisconsin,Madison,53711,5346.79,4,10
+LOC-0189,United States,Central,Wisconsin,Milwaukee,53209,10469.04,22,40
+LOC-0190,United States,Central,Wisconsin,Sheboygan,53081,79.74,1,4
+LOC-0191,United States,Central,Wisconsin,Superior,54880,1299.73,2,9
+LOC-0192,United States,Central,Wisconsin,Waukesha,53186,54.5,1,1
+LOC-0193,United States,Central,Wisconsin,Wausau,54401,317.48,1,4
+LOC-0194,United States,Central,Wisconsin,West Allis,53214,250.48,1,2
+LOC-0195,United States,East,Connecticut,Bristol,06010,814.58,3,8
+LOC-0196,United States,East,Connecticut,Danbury,06810,27.46,1,1
+LOC-0197,United States,East,Connecticut,Fairfield,06824,4935.577,12,19
+LOC-0198,United States,East,Connecticut,Manchester,06040,2126.28,4,11
+LOC-0199,United States,East,Connecticut,Meriden,06450,1550.68,5,11
+LOC-0200,United States,East,Connecticut,Middletown,06457,1154.61,7,9
+LOC-0201,United States,East,Connecticut,Milford,06460,961.74,3,6
+LOC-0202,United States,East,Connecticut,Norwich,06360,414.04,4,4
+LOC-0203,United States,East,Connecticut,Shelton,06484,73.33,1,2
+LOC-0204,United States,East,Connecticut,Waterbury,06708,1326.06,5,11
+LOC-0205,United States,East,Delaware,Dover,19901,449.12,6,9
+LOC-0206,United States,East,Delaware,Newark,19711,20319.98,28,57
+LOC-0207,United States,East,Delaware,Wilmington,19805,6553.899,9,27
+LOC-0208,United States,East,District of Columbia,Washington,20016,2865.02,4,10
+LOC-0209,United States,East,Maine,Bangor,04401,1164.45,2,5
+LOC-0210,United States,East,Maine,Lewiston,04240,106.08,1,3
+LOC-0211,United States,East,Maryland,Baltimore,21215,6156.842,21,43
+LOC-0212,United States,East,Maryland,Clinton,20735,5514.251,10,29
+LOC-0213,United States,East,Maryland,Columbia,21044,10962.35,9,23
+LOC-0214,United States,East,Maryland,Gaithersburg,20877,405.92,1,2
+LOC-0215,United States,East,Maryland,Hagerstown,21740,43.8,1,1
+LOC-0216,United States,East,Maryland,Laurel,20707,152.59,1,2
+LOC-0217,United States,East,Maryland,Rockville,20852,469.77,3,5
+LOC-0218,United States,East,Massachusetts,Andover,01810,435.85,1,4
+LOC-0219,United States,East,Massachusetts,Beverly,01915,2583.19,1,3
+LOC-0220,United States,East,Massachusetts,Cambridge,02138,502.09,3,6
+LOC-0221,United States,East,Massachusetts,Everett,02149,5661.878,8,21
+LOC-0222,United States,East,Massachusetts,Franklin,02038,5534.559,9,17
+LOC-0223,United States,East,Massachusetts,Holyoke,01040,301.96,1,1
+LOC-0224,United States,East,Massachusetts,Lawrence,01841,6109.062,15,33
+LOC-0225,United States,East,Massachusetts,Leominster,01453,217.49,2,6
+LOC-0226,United States,East,Massachusetts,Lowell,01852,4837.93,7,16
+LOC-0227,United States,East,Massachusetts,Malden,02148,228.38,2,3
+LOC-0228,United States,East,Massachusetts,Marlborough,01752,206.64,1,2
+LOC-0229,United States,East,Massachusetts,New Bedford,02740,235.97,4,5
+LOC-0230,United States,East,Massachusetts,Quincy,02169,946.175,5,11
+LOC-0231,United States,East,Massachusetts,Revere,02151,833.26,3,7
+LOC-0232,United States,East,New Hampshire,Concord,03301,2827.63,10,15
+LOC-0233,United States,East,New Hampshire,Dover,03820,4428.954,5,10
+LOC-0234,United States,East,New Hampshire,Nashua,03060,35.94,2,2
+LOC-0235,United States,East,New Jersey,Atlantic City,08401,23.36,1,1
+LOC-0236,United States,East,New Jersey,Bayonne,07002,183.4,1,3
+LOC-0237,United States,East,New Jersey,Belleville,07109,1891.6,4,10
+LOC-0238,United States,East,New Jersey,Bridgeton,08302,52.41,1,2
+LOC-0239,United States,East,New Jersey,Clifton,07011,336.82,1,2
+LOC-0240,United States,East,New Jersey,East Orange,07017,31.8,1,1
+LOC-0241,United States,East,New Jersey,Hackensack,07601,1456.16,2,6
+LOC-0242,United States,East,New Jersey,Lakewood,08701,14843.1,10,23
+LOC-0243,United States,East,New Jersey,Linden,07036,115.36,1,1
+LOC-0244,United States,East,New Jersey,Morristown,07960,5033.1,5,7
+LOC-0245,United States,East,New Jersey,New Brunswick,08901,14.77,1,2
+LOC-0246,United States,East,New Jersey,Orange,07050,211.11,5,6
+LOC-0247,United States,East,New Jersey,Passaic,07055,1562.086,1,6
+LOC-0248,United States,East,New Jersey,Paterson,07501,2243.21,6,20
+LOC-0249,United States,East,New Jersey,Perth Amboy,08861,1717.08,4,8
+LOC-0250,United States,East,New Jersey,Plainfield,07060,3727.92,6,10
+LOC-0251,United States,East,New Jersey,Vineland,08360,647.966,4,8
+LOC-0252,United States,East,New Jersey,Westfield,07090,519.72,4,6
+LOC-0253,United States,East,New York,Auburn,13021,1384.158,6,17
+LOC-0254,United States,East,New York,Buffalo,14215,9063.496,7,10
+LOC-0255,United States,East,New York,Freeport,11520,523.33,4,6
+LOC-0256,United States,East,New York,Hempstead,11550,2589.586,4,11
+LOC-0257,United States,East,New York,Jamestown,14701,4708.79,2,2
+LOC-0258,United States,East,New York,Lindenhurst,11757,55.48,1,1
+LOC-0259,United States,East,New York,Long Beach,11561,8434.1,21,32
+LOC-0260,United States,East,New York,Mount Vernon,10550,2119.632,5,8
+LOC-0261,United States,East,New York,New Rochelle,10801,977.658,4,6
+LOC-0262,United States,East,New York,New York City,10009,53225.076,107,220
+LOC-0263,United States,East,New York,New York City,10011,45551.598,94,193
+LOC-0264,United States,East,New York,New York City,10024,78534.044,118,225
+LOC-0265,United States,East,New York,New York City,10035,75151.829,120,253
+LOC-0266,United States,East,New York,Niagara Falls,14304,34.992,1,2
+LOC-0267,United States,East,New York,Oceanside,11572,3851.126,8,22
+LOC-0268,United States,East,New York,Rochester,14609,6017.13,20,36
+LOC-0269,United States,East,New York,Rome,13440,534.852,3,6
+LOC-0270,United States,East,New York,Troy,12180,1326.556,6,15
+LOC-0271,United States,East,New York,Utica,13501,575.05,3,7
+LOC-0272,United States,East,New York,Watertown,13601,4044.998,7,10
+LOC-0273,United States,East,New York,Yonkers,10701,7657.666,6,15
+LOC-0274,United States,East,Ohio,Akron,44312,2724.244,9,20
+LOC-0275,United States,East,Ohio,Bowling Green,43402,1865.565,4,8
+LOC-0276,United States,East,Ohio,Cincinnati,45231,1611.976,12,17
+LOC-0277,United States,East,Ohio,Cleveland,44105,5281.503,19,38
+LOC-0278,United States,East,Ohio,Columbus,43229,15900.793,55,120
+LOC-0279,United States,East,Ohio,Cuyahoga Falls,44221,29.094,3,3
+LOC-0280,United States,East,Ohio,Dublin,43017,2379.16,5,13
+LOC-0281,United States,East,Ohio,Elyria,44035,1.824,1,1
+LOC-0282,United States,East,Ohio,Fairfield,45014,2512.217,8,14
+LOC-0283,United States,East,Ohio,Grove City,43123,123.588,1,2
+LOC-0284,United States,East,Ohio,Hamilton,45011,328.224,3,4
+LOC-0285,United States,East,Ohio,Kent,44240,346.302,3,5
+LOC-0286,United States,East,Ohio,Lakewood,44107,1756.324,13,17
+LOC-0287,United States,East,Ohio,Lancaster,43130,8202.625,15,31
+LOC-0288,United States,East,Ohio,Lorain,44052,2015.111,5,9
+LOC-0289,United States,East,Ohio,Marion,43302,3010.986,8,14
+LOC-0290,United States,East,Ohio,Medina,44256,2477.722,3,9
+LOC-0291,United States,East,Ohio,Mentor,44060,693.13,1,6
+LOC-0292,United States,East,Ohio,Newark,43055,8128.069,16,35
+LOC-0293,United States,East,Ohio,Parma,44134,3815.788,3,9
+LOC-0294,United States,East,Ohio,Springfield,45503,4386.635,17,34
+LOC-0295,United States,East,Ohio,Toledo,43615,4358.935,15,31
+LOC-0296,United States,East,Ohio,Troy,45373,3180.535,8,14
+LOC-0297,United States,East,Pennsylvania,Allentown,18103,853.252,2,7
+LOC-0298,United States,East,Pennsylvania,Altoona,16602,20.451,1,2
+LOC-0299,United States,East,Pennsylvania,Bethlehem,18018,1689.634,2,5
+LOC-0300,United States,East,Pennsylvania,Chester,19013,1968.479,4,16
+LOC-0301,United States,East,Pennsylvania,Lancaster,17602,1211.395,8,10
+LOC-0302,United States,East,Pennsylvania,Philadelphia,19120,26067.622,60,109
+LOC-0303,United States,East,Pennsylvania,Philadelphia,19134,39390.293,70,160
+LOC-0304,United States,East,Pennsylvania,Philadelphia,19140,22742.546,71,149
+LOC-0305,United States,East,Pennsylvania,Philadelphia,19143,20641.288,61,114
+LOC-0306,United States,East,Pennsylvania,Reading,19601,873.712,4,5
+LOC-0307,United States,East,Pennsylvania,York,17403,817.978,2,5
+LOC-0308,United States,East,Rhode Island,Cranston,02920,3921.986,4,15
+LOC-0309,United States,East,Rhode Island,Providence,02908,15980.65,13,31
+LOC-0310,United States,East,Rhode Island,Warwick,02886,2426.84,4,5
+LOC-0311,United States,East,Rhode Island,Woonsocket,02895,195.55,3,4
+LOC-0312,United States,East,Vermont,Burlington,,8929.37,6,11
+LOC-0313,United States,East,West Virginia,Wheeling,26003,1209.824,2,4
+LOC-0314,United States,South,Alabama,Auburn,36830,1766.83,3,6
+LOC-0315,United States,South,Alabama,Decatur,35601,3374.82,7,13
+LOC-0316,United States,South,Alabama,Florence,35630,1997.35,3,5
+LOC-0317,United States,South,Alabama,Hoover,35244,525.85,2,4
+LOC-0318,United States,South,Alabama,Huntsville,35810,2484.37,7,10
+LOC-0319,United States,South,Alabama,Mobile,36608,5462.99,4,11
+LOC-0320,United States,South,Alabama,Montgomery,36116,3722.73,6,10
+LOC-0321,United States,South,Alabama,Tuscaloosa,35401,175.7,2,2
+LOC-0322,United States,South,Arkansas,Conway,72032,301.96,1,1
+LOC-0323,United States,South,Arkansas,Fayetteville,72701,3742.81,8,14
+LOC-0324,United States,South,Arkansas,Hot Springs,71901,245.83,2,4
+LOC-0325,United States,South,Arkansas,Jonesboro,72401,2915.32,5,11
+LOC-0326,United States,South,Arkansas,Little Rock,72209,3560.35,6,24
+LOC-0327,United States,South,Arkansas,Pine Bluff,71603,212.91,1,2
+LOC-0328,United States,South,Arkansas,Rogers,72756,40.41,1,1
+LOC-0329,United States,South,Arkansas,Springdale,72762,4.3,1,1
+LOC-0330,United States,South,Arkansas,Texarkana,71854,654.24,2,2
+LOC-0331,United States,South,Florida,Apopka,32712,904.554,3,7
+LOC-0332,United States,South,Florida,Boca Raton,33433,63.008,2,3
+LOC-0333,United States,South,Florida,Boynton Beach,33437,469.585,4,10
+LOC-0334,United States,South,Florida,Coral Gables,33134,64.248,1,2
+LOC-0335,United States,South,Florida,Coral Springs,33065,824.992,4,8
+LOC-0336,United States,South,Florida,Daytona Beach,32114,272.3315,2,4
+LOC-0337,United States,South,Florida,Delray Beach,33445,242.536,2,3
+LOC-0338,United States,South,Florida,Deltona,32725,893.24,4,5
+LOC-0339,United States,South,Florida,Fort Lauderdale,33311,4855.2125,11,13
+LOC-0340,United States,South,Florida,Hialeah,33012,2338.949,10,18
+LOC-0341,United States,South,Florida,Hollywood,33021,1070.474,8,11
+LOC-0342,United States,South,Florida,Homestead,33030,132.552,2,3
+LOC-0343,United States,South,Florida,Jacksonville,32216,39133.328,38,75
+LOC-0344,United States,South,Florida,Jupiter,33458,2.064,1,1
+LOC-0345,United States,South,Florida,Kissimmee,34741,751.984,1,1
+LOC-0346,United States,South,Florida,Lakeland,33801,5606.8865,6,22
+LOC-0347,United States,South,Florida,Margate,33063,15.552,1,1
+LOC-0348,United States,South,Florida,Melbourne,32935,95.616,1,1
+LOC-0349,United States,South,Florida,Miami,33142,3619.421,9,11
+LOC-0350,United States,South,Florida,Miami,33178,1918.3685,10,18
+LOC-0351,United States,South,Florida,Miami,33180,3110.037,14,27
+LOC-0352,United States,South,Florida,Miramar,33023,1531.192,3,8
+LOC-0353,United States,South,Florida,North Miami,33161,22.128,2,2
+LOC-0354,United States,South,Florida,Orlando,32839,1740.08,6,11
+LOC-0355,United States,South,Florida,Ormond Beach,32174,2.808,1,1
+LOC-0356,United States,South,Florida,Palm Coast,32137,274.428,3,5
+LOC-0357,United States,South,Florida,Pembroke Pines,33024,1714.3755,4,14
+LOC-0358,United States,South,Florida,Pensacola,32503,2.214,1,1
+LOC-0359,United States,South,Florida,Plantation,33317,1436.836,3,11
+LOC-0360,United States,South,Florida,Pompano Beach,33068,90.44,2,3
+LOC-0361,United States,South,Florida,Port Orange,32127,7.824,1,1
+LOC-0362,United States,South,Florida,Port Saint Lucie,34952,248.95,3,3
+LOC-0363,United States,South,Florida,Saint Petersburg,33710,753.184,5,7
+LOC-0364,United States,South,Florida,Sanford,32771,225.546,1,2
+LOC-0365,United States,South,Florida,Tallahassee,32303,7250.669,9,17
+LOC-0366,United States,South,Florida,Tamarac,33319,1413.51,2,4
+LOC-0367,United States,South,Florida,Tampa,33614,5196.0805,14,36
+LOC-0368,United States,South,Florida,West Palm Beach,33407,141.328,3,3
+LOC-0369,United States,South,Georgia,Athens,30605,1434.72,4,6
+LOC-0370,United States,South,Georgia,Atlanta,30318,17197.84,17,39
+LOC-0371,United States,South,Georgia,Columbus,31907,14801.37,39,67
+LOC-0372,United States,South,Georgia,East Point,30344,268.4,1,3
+LOC-0373,United States,South,Georgia,Macon,31204,364.01,4,6
+LOC-0374,United States,South,Georgia,Marietta,30062,2938.62,3,7
+LOC-0375,United States,South,Georgia,Roswell,30076,6652.32,9,18
+LOC-0376,United States,South,Georgia,Sandy Springs,30328,1997.03,4,14
+LOC-0377,United States,South,Georgia,Smyrna,30080,2130.0,4,15
+LOC-0378,United States,South,Georgia,Warner Robins,31088,434.8,2,2
+LOC-0379,United States,South,Kentucky,Bowling Green,42104,211.81,2,2
+LOC-0380,United States,South,Kentucky,Florence,41042,4541.8,3,9
+LOC-0381,United States,South,Kentucky,Georgetown,40324,1786.42,3,8
+LOC-0382,United States,South,Kentucky,Henderson,42420,15661.01,17,48
+LOC-0383,United States,South,Kentucky,Louisville,40214,7275.39,17,33
+LOC-0384,United States,South,Kentucky,Murray,42071,264.62,2,2
+LOC-0385,United States,South,Kentucky,Owensboro,42301,71.18,2,2
+LOC-0386,United States,South,Kentucky,Richmond,40475,6646.16,13,33
+LOC-0387,United States,South,Louisiana,Bossier City,71111,1417.18,2,6
+LOC-0388,United States,South,Louisiana,Kenner,70065,89.32,1,2
+LOC-0389,United States,South,Louisiana,Lafayette,70506,5319.77,9,18
+LOC-0390,United States,South,Louisiana,Lake Charles,70601,547.41,2,3
+LOC-0391,United States,South,Louisiana,Monroe,71203,1757.37,6,12
+LOC-0392,United States,South,Mississippi,Gulfport,39503,166.5,3,3
+LOC-0393,United States,South,Mississippi,Hattiesburg,39401,1722.84,3,9
+LOC-0394,United States,South,Mississippi,Jackson,39212,7426.61,18,34
+LOC-0395,United States,South,Mississippi,Southaven,38671,1455.39,2,7
+LOC-0396,United States,South,North Carolina,Asheville,28806,1475.376,6,7
+LOC-0397,United States,South,North Carolina,Burlington,27217,12681.282,7,11
+LOC-0398,United States,South,North Carolina,Cary,27511,505.208,3,6
+LOC-0399,United States,South,North Carolina,Chapel Hill,27514,14.016,1,1
+LOC-0400,United States,South,North Carolina,Charlotte,28205,13450.987,23,51
+LOC-0401,United States,South,North Carolina,Concord,28027,5111.844,5,8
+LOC-0402,United States,South,North Carolina,Durham,27707,879.96,5,9
+LOC-0403,United States,South,North Carolina,Fayetteville,28314,3183.116,12,27
+LOC-0404,United States,South,North Carolina,Gastonia,28052,895.06,1,4
+LOC-0405,United States,South,North Carolina,Goldsboro,27534,34.944,1,1
+LOC-0406,United States,South,North Carolina,Greensboro,27405,2406.78,8,13
+LOC-0407,United States,South,North Carolina,Greenville,27834,2117.83,5,9
+LOC-0408,United States,South,North Carolina,Hickory,28601,40.764,2,2
+LOC-0409,United States,South,North Carolina,Jacksonville,28540,5579.855,23,50
+LOC-0410,United States,South,North Carolina,Monroe,28110,1213.064,6,9
+LOC-0411,United States,South,North Carolina,Raleigh,27604,4312.692,12,21
+LOC-0412,United States,South,North Carolina,Thomasville,27360,151.292,2,3
+LOC-0413,United States,South,North Carolina,Wilmington,28403,743.162,9,9
+LOC-0414,United States,South,North Carolina,Wilson,27893,368.732,3,6
+LOC-0415,United States,South,South Carolina,Columbia,29203,6168.16,11,30
+LOC-0416,United States,South,South Carolina,Florence,29501,1064.57,4,6
+LOC-0417,United States,South,South Carolina,Mount Pleasant,29464,545.94,1,1
+LOC-0418,United States,South,South Carolina,North Charleston,29406,284.25,2,2
+LOC-0419,United States,South,South Carolina,Rock Hill,29730,11.85,1,1
+LOC-0420,United States,South,South Carolina,Summerville,29483,406.94,1,2
+LOC-0421,United States,South,Tennessee,Bartlett,38134,88.96,1,1
+LOC-0422,United States,South,Tennessee,Bristol,37620,436.602,4,5
+LOC-0423,United States,South,Tennessee,Chattanooga,37421,988.803,6,10
+LOC-0424,United States,South,Tennessee,Clarksville,37042,2217.73,3,7
+LOC-0425,United States,South,Tennessee,Columbia,38401,5162.774,10,18
+LOC-0426,United States,South,Tennessee,Franklin,37064,948.228,6,11
+LOC-0427,United States,South,Tennessee,Hendersonville,37075,319.538,2,5
+LOC-0428,United States,South,Tennessee,Jackson,38301,2117.212,5,10
+LOC-0429,United States,South,Tennessee,Johnson City,37604,765.848,3,12
+LOC-0430,United States,South,Tennessee,Knoxville,37918,3928.166,10,24
+LOC-0431,United States,South,Tennessee,Lebanon,37087,488.896,3,3
+LOC-0432,United States,South,Tennessee,Memphis,38109,5942.341,14,30
+LOC-0433,United States,South,Tennessee,Murfreesboro,37130,337.333,4,11
+LOC-0434,United States,South,Tennessee,Nashville,37211,6070.863,16,29
+LOC-0435,United States,South,Tennessee,Smyrna,37167,848.579,4,7
+LOC-0436,United States,South,Virginia,Alexandria,22304,5519.57,6,16
+LOC-0437,United States,South,Virginia,Arlington,22204,14366.76,21,32
+LOC-0438,United States,South,Virginia,Charlottesville,22901,102.61,2,2
+LOC-0439,United States,South,Virginia,Chesapeake,23320,5996.72,10,18
+LOC-0440,United States,South,Virginia,Hampton,23666,2722.26,5,11
+LOC-0441,United States,South,Virginia,Harrisonburg,22801,4388.71,4,7
+LOC-0442,United States,South,Virginia,Newport News,23602,3321.95,5,12
+LOC-0443,United States,South,Virginia,Richmond,23223,5141.26,13,27
+LOC-0444,United States,South,Virginia,Salem,24153,2039.55,6,13
+LOC-0445,United States,South,Virginia,Springfield,22153,16628.53,25,50
+LOC-0446,United States,South,Virginia,Suffolk,23434,1597.9,4,10
+LOC-0447,United States,South,Virginia,Virginia Beach,23464,5752.13,11,16
+LOC-0448,United States,South,Virginia,Waynesboro,22980,3058.77,3,10
+LOC-0449,United States,West,Arizona,Avondale,85323,946.808,3,6
+LOC-0450,United States,West,Arizona,Bullhead City,86442,22.288,1,2
+LOC-0451,United States,West,Arizona,Chandler,85224,1067.403,5,6
+LOC-0452,United States,West,Arizona,Gilbert,85234,4172.382,5,15
+LOC-0453,United States,West,Arizona,Glendale,85301,2917.865,13,23
+LOC-0454,United States,West,Arizona,Mesa,85204,4037.74,14,28
+LOC-0455,United States,West,Arizona,Peoria,85345,1341.352,5,16
+LOC-0456,United States,West,Arizona,Phoenix,85023,11000.257,29,63
+LOC-0457,United States,West,Arizona,Scottsdale,85254,1466.307,7,12
+LOC-0458,United States,West,Arizona,Sierra Vista,85635,76.072,2,3
+LOC-0459,United States,West,Arizona,Tempe,85281,1070.302,6,13
+LOC-0460,United States,West,Arizona,Tucson,85705,6313.016,13,32
+LOC-0461,United States,West,Arizona,Yuma,85364,840.865,4,4
+LOC-0462,United States,West,California,Anaheim,92804,5600.548,7,19
+LOC-0463,United States,West,California,Antioch,94509,19.44,1,1
+LOC-0464,United States,West,California,Apple Valley,92307,1915.081,3,7
+LOC-0465,United States,West,California,Bakersfield,93309,1377.29,8,16
+LOC-0466,United States,West,California,Brentwood,94513,5090.114,6,16
+LOC-0467,United States,West,California,Burbank,91505,3247.158,1,3
+LOC-0468,United States,West,California,Camarillo,93010,1467.5175,2,5
+LOC-0469,United States,West,California,Chico,95928,2050.178,3,11
+LOC-0470,United States,West,California,Chula Vista,91911,1041.62,3,3
+LOC-0471,United States,West,California,Citrus Heights,95610,129.39,1,1
+LOC-0472,United States,West,California,Coachella,92236,163.55,1,2
+LOC-0473,United States,West,California,Concord,94521,2602.928,6,8
+LOC-0474,United States,West,California,Costa Mesa,92627,1117.534,4,8
+LOC-0475,United States,West,California,Danville,94526,1158.882,1,6
+LOC-0476,United States,West,California,Davis,95616,32.4,1,1
+LOC-0477,United States,West,California,Dublin,94568,22.0,1,1
+LOC-0478,United States,West,California,El Cajon,92020,865.616,2,2
+LOC-0479,United States,West,California,Encinitas,92024,591.981,2,5
+LOC-0480,United States,West,California,Escondido,92025,94.548,3,3
+LOC-0481,United States,West,California,Fairfield,94533,1470.584,2,9
+LOC-0482,United States,West,California,Fresno,93727,7888.5285,11,26
+LOC-0483,United States,West,California,Hesperia,92345,1213.1715,3,4
+LOC-0484,United States,West,California,Huntington Beach,92646,2527.82,5,6
+LOC-0485,United States,West,California,Inglewood,90301,3479.328,4,16
+LOC-0486,United States,West,California,La Mesa,91941,367.53,1,2
+LOC-0487,United States,West,California,La Quinta,92253,46.32,1,1
+LOC-0488,United States,West,California,Laguna Niguel,92677,290.983,3,4
+LOC-0489,United States,West,California,Lake Elsinore,92530,283.92,1,1
+LOC-0490,United States,West,California,Lake Forest,92630,1625.536,2,6
+LOC-0491,United States,West,California,Lakewood,90712,1583.683,5,8
+LOC-0492,United States,West,California,Lancaster,93534,477.444,4,5
+LOC-0493,United States,West,California,Long Beach,90805,3874.742,10,20
+LOC-0494,United States,West,California,Los Angeles,90004,23684.259,59,117
+LOC-0495,United States,West,California,Los Angeles,90008,24235.8335,56,102
+LOC-0496,United States,West,California,Los Angeles,90032,21402.1065,57,101
+LOC-0497,United States,West,California,Los Angeles,90036,29157.853,67,122
+LOC-0498,United States,West,California,Los Angeles,90045,37050.205,66,136
+LOC-0499,United States,West,California,Los Angeles,90049,37889.924,73,150
+LOC-0500,United States,West,California,Manteca,95336,452.182,2,3
+LOC-0501,United States,West,California,Mission Viejo,92691,775.986,3,5
+LOC-0502,United States,West,California,Modesto,95351,326.15,3,3
+LOC-0503,United States,West,California,Montebello,90640,27.88,1,1
+LOC-0504,United States,West,California,Moreno Valley,92553,1262.466,5,10
+LOC-0505,United States,West,California,Morgan Hill,95037,545.01,1,4
+LOC-0506,United States,West,California,Murrieta,92563,484.65,1,1
+LOC-0507,United States,West,California,Oakland,94601,5964.418,13,26
+LOC-0508,United States,West,California,Oceanside,92054,499.612,5,8
+LOC-0509,United States,West,California,Ontario,91761,283.92,1,1
+LOC-0510,United States,West,California,Oxnard,93030,1558.1,4,9
+LOC-0511,United States,West,California,Pasadena,91104,4112.688,11,25
+LOC-0512,United States,West,California,Pico Rivera,90660,145.9,1,1
+LOC-0513,United States,West,California,Pomona,91767,1482.502,5,7
+LOC-0514,United States,West,California,Rancho Cucamonga,91730,231.852,4,4
+LOC-0515,United States,West,California,Redding,96003,333.576,1,1
+LOC-0516,United States,West,California,Redlands,92374,2891.021,4,16
+LOC-0517,United States,West,California,Redondo Beach,90278,1959.803,3,8
+LOC-0518,United States,West,California,Redwood City,94061,41.904,1,1
+LOC-0519,United States,West,California,Riverside,92503,1944.246,9,14
+LOC-0520,United States,West,California,Roseville,95661,734.776,7,14
+LOC-0521,United States,West,California,Sacramento,95823,7311.278,8,13
+LOC-0522,United States,West,California,Salinas,93905,728.891,4,8
+LOC-0523,United States,West,California,San Bernardino,92404,256.136,3,6
+LOC-0524,United States,West,California,San Clemente,92672,90.058,1,2
+LOC-0525,United States,West,California,San Diego,92024,7054.148,21,34
+LOC-0526,United States,West,California,San Diego,92037,25676.273,34,62
+LOC-0527,United States,West,California,San Diego,92105,14790.608,33,74
+LOC-0528,United States,West,California,San Francisco,94109,24935.43,79,139
+LOC-0529,United States,West,California,San Francisco,94110,34991.315,88,166
+LOC-0530,United States,West,California,San Francisco,94122,49114.375,94,195
+LOC-0531,United States,West,California,San Gabriel,91776,2061.01,1,3
+LOC-0532,United States,West,California,San Jose,95123,6071.229,20,42
+LOC-0533,United States,West,California,San Luis Obispo,93405,3.62,1,1
+LOC-0534,United States,West,California,San Mateo,94403,75.18,1,1
+LOC-0535,United States,West,California,Santa Ana,92704,3366.31,8,14
+LOC-0536,United States,West,California,Santa Barbara,93101,3896.048,4,6
+LOC-0537,United States,West,California,Santa Clara,95051,222.192,3,6
+LOC-0538,United States,West,California,Santa Maria,93454,115.44,1,1
+LOC-0539,United States,West,California,Stockton,95207,1227.6,5,6
+LOC-0540,United States,West,California,Sunnyvale,94086,636.21,2,6
+LOC-0541,United States,West,California,Temecula,92592,808.666,1,4
+LOC-0542,United States,West,California,Thousand Oaks,91360,238.804,4,5
+LOC-0543,United States,West,California,Torrance,90503,3132.268,2,4
+LOC-0544,United States,West,California,Vacaville,95687,423.28,1,1
+LOC-0545,United States,West,California,Vallejo,94591,1221.41,3,6
+LOC-0546,United States,West,California,Visalia,93277,318.78,2,4
+LOC-0547,United States,West,California,Westminster,92683,3583.486,3,16
+LOC-0548,United States,West,California,Whittier,90604,444.768,1,1
+LOC-0549,United States,West,California,Woodland,95695,264.662,2,3
+LOC-0550,United States,West,California,Yucaipa,92399,50.8,1,1
+LOC-0551,United States,West,Colorado,Arvada,80004,503.4,1,4
+LOC-0552,United States,West,Colorado,Aurora,80013,4083.51,15,34
+LOC-0553,United States,West,Colorado,Broomfield,80020,793.504,2,5
+LOC-0554,United States,West,Colorado,Colorado Springs,80906,3694.009,9,25
+LOC-0555,United States,West,Colorado,Commerce City,80022,146.352,1,1
+LOC-0556,United States,West,Colorado,Denver,80219,12198.793,17,44
+LOC-0557,United States,West,Colorado,Englewood,80112,124.056,1,2
+LOC-0558,United States,West,Colorado,Fort Collins,80525,935.252,5,7
+LOC-0559,United States,West,Colorado,Greeley,80634,30.352,1,2
+LOC-0560,United States,West,Colorado,Littleton,80122,72.294,1,1
+LOC-0561,United States,West,Colorado,Longmont,80501,915.088,2,3
+LOC-0562,United States,West,Colorado,Louisville,80027,4803.896,11,21
+LOC-0563,United States,West,Colorado,Loveland,80538,20.964,3,4
+LOC-0564,United States,West,Colorado,Parker,80134,1067.942,2,8
+LOC-0565,United States,West,Colorado,Pueblo,81001,1686.938,4,8
+LOC-0566,United States,West,Colorado,Thornton,80229,765.248,3,10
+LOC-0567,United States,West,Idaho,Boise,83704,1094.47,3,4
+LOC-0568,United States,West,Idaho,Caldwell,83605,455.632,1,3
+LOC-0569,United States,West,Idaho,Lewiston,83501,9.584,1,1
+LOC-0570,United States,West,Idaho,Meridian,83642,329.052,2,4
+LOC-0571,United States,West,Idaho,Pocatello,83201,1344.942,3,7
+LOC-0572,United States,West,Idaho,Twin Falls,83301,1148.806,1,2
+LOC-0573,United States,West,Montana,Billings,59102,8.288,1,1
+LOC-0574,United States,West,Montana,Bozeman,59715,43.66,1,2
+LOC-0575,United States,West,Montana,Great Falls,59405,4605.58,3,8
+LOC-0576,United States,West,Montana,Helena,59601,443.84,2,3
+LOC-0577,United States,West,Montana,Missoula,59801,487.984,1,1
+LOC-0578,United States,West,Nevada,Henderson,89015,1888.058,2,3
+LOC-0579,United States,West,Nevada,Las Vegas,89115,1834.02,8,13
+LOC-0580,United States,West,Nevada,North Las Vegas,89031,9801.002,7,16
+LOC-0581,United States,West,Nevada,Reno,89502,644.062,3,4
+LOC-0582,United States,West,Nevada,Sparks,89431,2561.96,3,3
+LOC-0583,United States,West,New Mexico,Albuquerque,87105,2220.16,7,14
+LOC-0584,United States,West,New Mexico,Carlsbad,88220,419.34,5,11
+LOC-0585,United States,West,New Mexico,Clovis,88101,111.42,1,2
+LOC-0586,United States,West,New Mexico,Farmington,87401,718.72,3,3
+LOC-0587,United States,West,New Mexico,Las Cruces,88001,98.77,3,3
+LOC-0588,United States,West,New Mexico,Rio Rancho,87124,1114.192,1,2
+LOC-0589,United States,West,New Mexico,Santa Fe,87505,100.92,2,2
+LOC-0590,United States,West,Oregon,Eugene,97405,1465.032,1,6
+LOC-0591,United States,West,Oregon,Gresham,97030,2133.424,4,5
+LOC-0592,United States,West,Oregon,Hillsboro,97123,87.838,2,4
+LOC-0593,United States,West,Oregon,Medford,97504,90.218,3,4
+LOC-0594,United States,West,Oregon,Portland,97206,3905.181,14,22
+LOC-0595,United States,West,Oregon,Redmond,97756,1043.027,4,8
+LOC-0596,United States,West,Oregon,Salem,97301,1404.695,9,27
+LOC-0597,United States,West,Oregon,Springfield,97477,5761.265,15,38
+LOC-0598,United States,West,Oregon,Tigard,97224,1393.782,3,8
+LOC-0599,United States,West,Utah,Draper,84020,263.65,2,3
+LOC-0600,United States,West,Utah,Layton,84041,4.96,1,1
+LOC-0601,United States,West,Utah,Lehi,84043,1516.726,2,2
+LOC-0602,United States,West,Utah,Logan,84321,280.276,1,5
+LOC-0603,United States,West,Utah,Murray,84107,146.318,2,3
+LOC-0604,United States,West,Utah,Orem,84057,2994.088,5,9
+LOC-0605,United States,West,Utah,Pleasant Grove,84062,2138.178,2,7
+LOC-0606,United States,West,Utah,Provo,84604,2761.234,4,10
+LOC-0607,United States,West,Utah,Salt Lake City,84106,802.776,5,8
+LOC-0608,United States,West,Utah,West Jordan,84084,311.85,2,5
+LOC-0609,United States,West,Washington,Auburn,98002,4.18,1,1
+LOC-0610,United States,West,Washington,Bellevue,98006,103.622,5,6
+LOC-0611,United States,West,Washington,Bellingham,98226,3790.24,2,3
+LOC-0612,United States,West,Washington,Covington,98042,413.68,2,4
+LOC-0613,United States,West,Washington,Des Moines,98198,3454.438,5,7
+LOC-0614,United States,West,Washington,Edmonds,98026,2523.692,5,14
+LOC-0615,United States,West,Washington,Everett,98208,3.856,1,1
+LOC-0616,United States,West,Washington,Kent,98031,1351.254,3,8
+LOC-0617,United States,West,Washington,Longview,98632,119.21,2,3
+LOC-0618,United States,West,Washington,Marysville,98270,102.18,2,2
+LOC-0619,United States,West,Washington,Olympia,98502,1020.448,3,5
+LOC-0620,United States,West,Washington,Pasco,99301,2201.112,2,6
+LOC-0621,United States,West,Washington,Redmond,98052,55.23,2,3
+LOC-0622,United States,West,Washington,Renton,98059,1242.632,1,3
+LOC-0623,United States,West,Washington,Seattle,98103,33107.406,72,149
+LOC-0624,United States,West,Washington,Seattle,98105,41838.008,77,165
+LOC-0625,United States,West,Washington,Seattle,98115,41160.908,61,112
+LOC-0626,United States,West,Washington,Spokane,99207,2027.918,5,7
+LOC-0627,United States,West,Washington,Vancouver,98661,686.836,3,5
+LOC-0628,United States,West,Wyoming,Cheyenne,82001,1603.136,1,1

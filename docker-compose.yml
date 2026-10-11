@@ -1,0 +1,118 @@
+# ==============================================================================
+# Multi-NoSQL Real-Time Business Analytics Platform - Shared Docker Compose
+# ==============================================================================
+# Single, unified Docker Compose configuration for all four NoSQL databases:
+#   1. MongoDB  (Phase 2 - Active)
+#   2. Redis    (Phase 3 - Upcoming)
+#   3. Cassandra (Phase 4 - Upcoming)
+#   4. Neo4j    (Phase 5 - Upcoming)
+# ==============================================================================
+
+name: multi-nosql-analytics
+
+services:
+  # ----------------------------------------------------------------------------
+  # Phase 2: MongoDB (Operational Document Store)
+  # ----------------------------------------------------------------------------
+  mongodb:
+    image: mongo:8
+    container_name: analytics-mongodb
+    restart: unless-stopped
+    ports:
+      - "${MONGODB_PORT:-27017}:27017"
+    environment:
+      MONGO_INITDB_DATABASE: ${MONGODB_DATABASE:-business_analytics}
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - analytics-net
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+
+  # ----------------------------------------------------------------------------
+  # Phase 3: Redis (Real-Time KPI & Dashboard Caching Layer)
+  # ----------------------------------------------------------------------------
+  redis:
+    image: redis:7-alpine
+    container_name: analytics-redis
+    restart: unless-stopped
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - analytics-net
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 3s
+
+  # ----------------------------------------------------------------------------
+  # Phase 4: Apache Cassandra (Time-Series & Analytical Store)
+  # ----------------------------------------------------------------------------
+  cassandra:
+    image: cassandra:5
+    container_name: analytics-cassandra
+    restart: unless-stopped
+    ports:
+      - "${CASSANDRA_PORT:-9042}:9042"
+    environment:
+      CASSANDRA_CLUSTER_NAME: "Test Cluster"
+      CASSANDRA_DC: "datacenter1"
+      CASSANDRA_ENDPOINT_SNITCH: "GossipingPropertyFileSnitch"
+      MAX_HEAP_SIZE: "1024M"
+      HEAP_NEWSIZE: "256M"
+    volumes:
+      - cassandra_data:/var/lib/cassandra
+    networks:
+      - analytics-net
+    healthcheck:
+      test: ["CMD", "cqlsh", "-e", "describe keyspaces"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+      start_period: 40s
+
+  # ----------------------------------------------------------------------------
+  # Phase 5: Neo4j (Graph & Relationship Store)
+  # ----------------------------------------------------------------------------
+  neo4j:
+    image: neo4j:5
+    container_name: analytics-neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # HTTP Browser
+      - "${NEO4J_PORT:-7687}:7687"   # Bolt Protocol
+    environment:
+      NEO4J_AUTH: "${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-password123}"
+      NEO4J_PLUGINS: '["apoc"]'
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - analytics-net
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p password123 'RETURN 1' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+
+volumes:
+  mongodb_data:
+    name: multi-nosql-analytics_mongodb_data
+  redis_data:
+    name: multi-nosql-analytics_redis_data
+  cassandra_data:
+    name: multi-nosql-analytics_cassandra_data
+  neo4j_data:
+    name: multi-nosql-analytics_neo4j_data
+
+networks:
+  analytics-net:
+    name: multi-nosql-analytics_net
